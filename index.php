@@ -7,15 +7,24 @@
     if($dom->loadHTML($data)) {
     	$xpath = new DOMXPath($dom);
 
-    	$dom_node_list = $xpath->query("//ul[@id='blogs-list']/li/div/div[@class='item-title']/a/@href");
+    	$dom_node_list = $xpath->query("//ul[@id='blogs-list']/li/div/div[@class='item-title']/a");
 
-    	//
 
-    	//var_dump($dom_node_list);
 
     	$temp_dom = new DOMDocument();
-		foreach($dom_node_list as $n) $temp_dom->appendChild($temp_dom->importNode($n,true));
-		print_r($temp_dom->saveHTML());
+
+    	$storeArray = array();
+
+		foreach($dom_node_list as $n) {
+
+			$temp_dom->appendChild($temp_dom->importNode($n,true));
+			array_push($storeArray, $n->getAttribute("href"));
+
+		}
+
+		//print_r($temp_dom->saveHTML());
+
+		var_dump($storeArray);
 
     	//var_dump($items);
 
