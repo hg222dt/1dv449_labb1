@@ -2,19 +2,10 @@
 
     $data = curl_get_request("https://coursepress.lnu.se/kurser/");
 
-	$courseUrlsData = domItAndExtract($data, "//ul[@id='blogs-list']/li/div/div[@class='item-title']/a");    
+    $courseUrls = getPageData($data, "//ul[@id='blogs-list']/li/div/div[@class='item-title']/a", true);
 
-	$courseUrls = array();
-
-	foreach($courseUrlsData as $n) {
-		array_push($courseUrls, $n->getAttribute("href"));
-	}
-
-	$courseData;
 
 	$courseDataArr = array();
-
-
 
 	foreach ($courseUrls as $url) {
 
@@ -25,24 +16,66 @@
 	}
 
 
-	//Kollar efter kursnamnen på varje sida
-	$courseNames = getCourseData($courseDataArr, "//div[@id='header-wrapper']/h1/a", false);
-	//var_dump($courseNames);
+	//Hämtar de olika elementen från sidan
+
+	$courseNames = getPageData($courseDataArr, "//div[@id='header-wrapper']/h1/a", false);
 	
-	//Kollar efter kurskod på varje sida
-	$courseCodes = getCourseData($courseDataArr, "//div[@id='header-wrapper']/ul/li[position()=3]/a", false);
+	$courseCodes = getPageData($courseDataArr, "//div[@id='header-wrapper']/ul/li[position()=3]/a", false);
 
-	//Hämta url:er för kursplaner
-	$coursPlanUrls = getCourseData($courseDataArr, "//ul[@id='menu-main-nav-menu']/li/ul/li[a='Kursplan']/a", true);
+	$coursPlanUrls = getPageData($courseDataArr, "//ul[@id='menu-main-nav-menu']/li/ul/li[a='Kursplan']/a", true);
 
-	//$courseDescriptions = getCourseData($courseData, "//section[@id='content']/", false);
+	$courseDescriptions = getPageData($courseDataArr, "(//div[@class='entry-content'])[1]", false);
+	
+	$latestPosts = getPageData($courseDataArr, "(//h1[@id='latest-post']/ancestor::section//p[@class='entry-byline'])[1]", false);
 
-	var_dump($coursPlanUrls);
+	$latestPostsTitle = getPageData($courseDataArr, "(//header[@class='entry-header']/h1[@class='entry-title'])[1]", false);
+
+	$latestPostAuthors = getPageData($courseDataArr, "(//h1[@id='latest-post']/ancestor::section//p[@class='entry-byline'])[1]/strong", false);
+
+	$latestPostTimestamps = getPageData($courseDataArr, "(//h1[@id='latest-post']/ancestor::section//p[@class='entry-byline'])[1]", false);
+
+	//h1[@id='latest-post']/ancestor::header[1]/following::article[1]
+
+	$latestPostsTimes = stringSliceMachine($latestPostTimestamps);
+	
+	var_dump($latestPostsTimes);
 
 
-	function getCourseData($courseDataArr, $query, $getHrefAttr) {
+	function stringSliceMachine($strArray) {
+	
+		$newStrArr = array();
+
+		foreach ($strArray as $string) {
+			$newStr;
+
+			$string = (string) $string;
+
+			if(strpos($string, "Publicerad ") !== false) {
+				$newStr = substr($string, strpos($string, "Publicerad ") + strlen("Publicerad "), 10);
+				//var_dump(strpos($string, "av"));
+
+				//strpos($string, "av")
+
+				array_push($newStrArr, $newStr);
+			}
+
+		}
+
+		return $newStrArr;
+	}
+
+
+	function getPageData($courseData, $query, $getHrefAttr) {
 
 		$newTargetElements = array();
+
+		$courseDataArr = array();
+
+		if(!is_array($courseData)) {
+			array_push($courseDataArr, $courseData);
+		} else {
+			$courseDataArr = $courseData;
+		}
 
 		foreach ($courseDataArr as $cData) {
 
