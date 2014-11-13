@@ -27,66 +27,90 @@
 
 	$courseNames = extractPageData($courseDataArr, "//div[@id='header-wrapper']/h1/a", false);
 
-	updateCourseObjects($courseNames, "courseName", $coursesObjArray);
+	updateCourseObjects($courseNames, "setCourseName", $coursesObjArray);
 
 	
 	$courseCodes = extractPageData($courseDataArr, "//div[@id='header-wrapper']/ul/li[position()=3]/a", false);
 
-	updateCourseObjects($courseCodes, "courseCode", $coursesObjArray);
+	updateCourseObjects($courseCodes, "setCourseCode", $coursesObjArray);
 
 
 	$coursPlanUrls = extractPageData($courseDataArr, "//ul[@id='menu-main-nav-menu']/li/ul/li[a='Kursplan']/a", true);
 
-	updateCourseObjects($coursPlanUrls, "coursPlanUrl", $coursesObjArray);
+	updateCourseObjects($coursPlanUrls, "setCoursePlanUrl", $coursesObjArray);
 
 
 	$courseDescriptions = extractPageData($courseDataArr, "(//div[@class='entry-content'])[1]", false);
 	
-	updateCourseObjects($courseDescriptions, "courseDescription", $coursesObjArray);	
-
-
-
-//	$latestPosts = extractPageData($courseDataArr, "(//h1[@id='latest-post']/ancestor::section//p[@class='entry-byline'])[1]", false);
-
+	updateCourseObjects($courseDescriptions, "setCourseDescription", $coursesObjArray);	
 
 
 	$latestPostsTitle = extractPageData($courseDataArr, "(//header[@class='entry-header']/h1[@class='entry-title'])[1]", false);
 
-	updateCourseObjects($latestPostsTitle, "latestPostTitle", $coursesObjArray);	
+	updateCourseObjects($latestPostsTitle, "setLatestPostTitle", $coursesObjArray);	
 
 
 	$latestPostsAuthors = extractPageData($courseDataArr, "(//h1[@id='latest-post']/ancestor::section//p[@class='entry-byline'])[1]/strong", false);
 
-	updateCourseObjects($latestPostsAuthors, "latestPostAuthor", $coursesObjArray);		
+	updateCourseObjects($latestPostsAuthors, "setLatestPostAuthor", $coursesObjArray);		
 
 
 	$latestPostsTimestamps = stringSliceMachine(extractPageData($courseDataArr, "(//h1[@id='latest-post']/ancestor::section//p[@class='entry-byline'])[1]", false), "Publicerad ");
 
-	updateCourseObjects($latestPostsTimestamps, "latestPostTimestamp", $coursesObjArray);
+	updateCourseObjects($latestPostsTimestamps, "setLatestPostTimestamp", $coursesObjArray);
+
+	$metaDataArray = array();
+
+	$amountOfCoursesScraped = sizeof($coursesObjArray);
+	$time = time();
+
+	$currentTime = date("Y-m-d h:i:sa", $time);
+
+	$metaDataArray["Amount of scraped course pages"] = $amountOfCoursesScraped;
+	$metaDataArray["Timestamp"] = $currentTime;
 
 
+	jsonify($coursesObjArray, $metaDataArray);
 
 
-	foreach ($coursesObjArray as $key => $object) {
-		var_dump($object);
-		var_dump("<br><br>");
+	function jsonify($pagesObjectsArray, $metaDataArray) {
+
+		$count = 0;
+
+		$jsonArray = array();
+
+		$pageDataArray = array();
+
+		$arrWithObjects = array();
+
+		foreach ($pagesObjectsArray as $key => $object) {
+
+			$pageArr = array();
+
+			$count++;
+
+			$pageArray = array("Page $count" => $object->getObjectAsArray());
+
+			array_push($pageDataArray, $pageArray);
+		}
+
+		$jsonArray['Meta data'] = $metaDataArray;
+		$jsonArray['Page data'] = $pageDataArray;
+
+		$jsonStr = (string) json_encode($jsonArray, JSON_PRETTY_PRINT);
+
+		$myfile = fopen("jsonResult.txt", "w");
+		fwrite($myfile, $jsonStr);
 	}
 
 
 
+	function updateCourseObjects($dataArray, $objAction, $courseObjects) {
 
-	//h1[@id='latest-post']/ancestor::header[1]/following::article[1]
-	
-	//var_dump($latestPostTimestamps);
-
-
-	function updateCourseObjects($dataArray, $fieldName, $courseObjects) {
-
-		
 		foreach ($courseObjects as $urlObject => $object) {
 			foreach ($dataArray as $urlKeyData => $dataValue) {
 				if($urlObject == $urlKeyData) {
-					$object->$fieldName = $dataValue;
+					$object->$objAction($dataValue);
 					break;
 				}
 			}
