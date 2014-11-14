@@ -2,78 +2,131 @@
 
 	require_once("DataObj.php");
 
-    $data = curl_get_request("https://coursepress.lnu.se/kurser/");
+	$resultFilename = "jsonResult.json";
 
-    $courseUrls = extractPageData($data, "//ul[@id='blogs-list']/li/div/div[@class='item-title']/a", true);
-
-
-   	$coursesObjArray = array();
-
-   	foreach ($courseUrls as $url) {
-
-   		$tempObj = new DataObj();
-
-   		$tempObj->url = $url;
-
-   		$coursesObjArray[$url] = $tempObj;
-   	}
+	$cacheStrategyOn = true;
+	$cachingTimeInSeconds = 120;
 
 
+	$json_data = file_get_contents($resultFilename);
+	$decodedJson = json_decode($json_data);
 
-	$courseDataArr = curl_get_request($courseUrls);
+	$timeStr = $decodedJson->Meta_data->Timestamp;
 
+	$timeStampLastScrape = strtotime($timeStr);
 
-	//Hämtar de olika elementen från sidan
+	$timeStampNow =  time();
 
-	$courseNames = extractPageData($courseDataArr, "//div[@id='header-wrapper']/h1/a", false);
-
-	updateCourseObjects($courseNames, "setCourseName", $coursesObjArray);
-
-	
-	$courseCodes = extractPageData($courseDataArr, "//div[@id='header-wrapper']/ul/li[position()=3]/a", false);
-
-	updateCourseObjects($courseCodes, "setCourseCode", $coursesObjArray);
+	$timeDifference = $timeStampNow - $timeStampLastScrape;
 
 
-	$coursPlanUrls = extractPageData($courseDataArr, "//ul[@id='menu-main-nav-menu']/li/ul/li[a='Kursplan']/a", true);
+	if($timeDifference < $cachingTimeInSeconds && $cacheStrategyOn) {
 
-	updateCourseObjects($coursPlanUrls, "setCoursePlanUrl", $coursesObjArray);
+		//Change timestamp
+		//$timeStampNow = date($timeStampNow);
+		$new_datetime = date('Y-m-d H:i:sa', $timeStampNow);
 
+		$decodedJson->Meta_data->Timestamp = $new_datetime;
 
-	$courseDescriptions = extractPageData($courseDataArr, "(//div[@class='entry-content'])[1]", false);
-	
-	updateCourseObjects($courseDescriptions, "setCourseDescription", $coursesObjArray);	
+		$jsonStr = (string) json_encode($decodedJson, JSON_PRETTY_PRINT);
 
-
-	$latestPostsTitle = extractPageData($courseDataArr, "(//header[@class='entry-header']/h1[@class='entry-title'])[1]", false);
-
-	updateCourseObjects($latestPostsTitle, "setLatestPostTitle", $coursesObjArray);	
-
-
-	$latestPostsAuthors = extractPageData($courseDataArr, "(//h1[@id='latest-post']/ancestor::section//p[@class='entry-byline'])[1]/strong", false);
-
-	updateCourseObjects($latestPostsAuthors, "setLatestPostAuthor", $coursesObjArray);		
+		$myfile = fopen($resultFilename, "w");
+		fwrite($myfile, $jsonStr);
 
 
-	$latestPostsTimestamps = stringSliceMachine(extractPageData($courseDataArr, "(//h1[@id='latest-post']/ancestor::section//p[@class='entry-byline'])[1]", false), "Publicerad ");
+		echo "<a href='$resultFilename'>Fil med resultat (json)</a> (Cashed file)";
 
-	updateCourseObjects($latestPostsTimestamps, "setLatestPostTimestamp", $coursesObjArray);
+	} else {
 
-	$metaDataArray = array();
+	    $data = curl_get_request("https://coursepress.lnu.se/kurser/");
 
-	$amountOfCoursesScraped = sizeof($coursesObjArray);
-	$time = time();
-
-	$currentTime = date("Y-m-d h:i:sa", $time);
-
-	$metaDataArray["Amount of scraped course pages"] = $amountOfCoursesScraped;
-	$metaDataArray["Timestamp"] = $currentTime;
+	    $courseUrls = extractPageData($data, "//ul[@id='blogs-list']/li/div/div[@class='item-title']/a", true);
 
 
-	jsonify($coursesObjArray, $metaDataArray);
+	   	$coursesObjArray = array();
+
+	   	foreach ($courseUrls as $url) {
+
+	   		$tempObj = new DataObj();
+
+	   		$tempObj->url = $url;
+
+	   		$coursesObjArray[$url] = $tempObj;
+	   	}
+
+		$courseDataArr = curl_get_request($courseUrls);
 
 
-	function jsonify($pagesObjectsArray, $metaDataArray) {
+
+		//Hämtar de olika elementen från sidan
+
+		$courseNames = extractPageData($courseDataArr, "//div[@id='header-wrapper']/h1/a", false);
+
+		updateCourseObjects($courseNames, "setCourseName", $coursesObjArray);
+
+		
+		$courseCodes = extractPageData($courseDataArr, "//div[@id='header-wrapper']/ul/li[position()=3]/a", false);
+
+		updateCourseObjects($courseCodes, "setCourseCode", $coursesObjArray);
+
+
+		$coursPlanUrls = extractPageData($courseDataArr, "//ul[@id='menu-main-nav-menu']/li/ul/li[a='Kursplan']/a", true);
+
+		updateCourseObjects($coursPlanUrls, "setCoursePlanUrl", $coursesObjArray);
+
+
+		$courseDescriptions = extractPageData($courseDataArr, "(//div[@class='entry-content'])[1]", false);
+		
+		updateCourseObjects($courseDescriptions, "setCourseDescription", $coursesObjArray);	
+
+
+		$latestPostsTitle = extractPageData($courseDataArr, "(//header[@class='entry-header']/h1[@class='entry-title'])[1]", false);
+
+		updateCourseObjects($latestPostsTitle, "setLatestPostTitle", $coursesObjArray);	
+
+
+		$latestPostsAuthors = extractPageData($courseDataArr, "(//h1[@id='latest-post']/ancestor::section//p[@class='entry-byline'])[1]/strong", false);
+
+		updateCourseObjects($latestPostsAuthors, "setLatestPostAuthor", $coursesObjArray);		
+
+
+		$latestPostsTimestamps = stringSliceMachine(extractPageData($courseDataArr, "(//h1[@id='latest-post']/ancestor::section//p[@class='entry-byline'])[1]", false), "Publicerad ");
+
+		updateCourseObjects($latestPostsTimestamps, "setLatestPostTimestamp", $coursesObjArray);
+
+
+
+
+
+		$metaDataArray = createMetaData($coursesObjArray);
+
+
+
+		jsonify($coursesObjArray, $metaDataArray, $resultFilename);
+
+
+		echo "<a href='$resultFilename'>Fil med resultat (json)</a>";
+
+	}
+
+
+
+	function createMetaData($coursesObjArray) {
+		$metaDataArray = array();
+
+		$amountOfCoursesScraped = sizeof($coursesObjArray);
+		$time = time();
+
+		$currentTime = date("Y-m-d h:i:sa", $time);
+
+		$metaDataArray["Amount of scraped course pages"] = $amountOfCoursesScraped;
+		$metaDataArray["Timestamp"] = $currentTime;
+
+		return $metaDataArray;
+	}
+
+
+	function jsonify($pagesObjectsArray, $metaDataArray, $resultFilename) {
 
 		$count = 0;
 
@@ -94,19 +147,18 @@
 			array_push($pageDataArray, $pageArray);
 		}
 
-		$jsonArray['Meta data'] = $metaDataArray;
-		$jsonArray['Page data'] = $pageDataArray;
+		$jsonArray['Meta_data'] = $metaDataArray;
+		$jsonArray['Page_data'] = $pageDataArray;
 
 		$jsonStr = (string) json_encode($jsonArray, JSON_PRETTY_PRINT);
 
-		$myfile = fopen("jsonResult.txt", "w");
+		$myfile = fopen($resultFilename, "w");
 		fwrite($myfile, $jsonStr);
 	}
 
 
 
 	function updateCourseObjects($dataArray, $objAction, $courseObjects) {
-
 		foreach ($courseObjects as $urlObject => $object) {
 			foreach ($dataArray as $urlKeyData => $dataValue) {
 				if($urlObject == $urlKeyData) {
