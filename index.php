@@ -4,26 +4,23 @@
 
 	$resultFilename = "jsonResult.json";
 
-	$cacheStrategyOn = true;
-	$cachingTimeInSeconds = 120;
+	$cacheStrategyOn = false;
+	$cachingTimeInSeconds = 300;
 
+	$timeStampNow =  time();
 
 	$json_data = file_get_contents($resultFilename);
 	$decodedJson = json_decode($json_data);
 
-	$timeStr = $decodedJson->Meta_data->Timestamp;
-
-	$timeStampLastScrape = strtotime($timeStr);
-
-	$timeStampNow =  time();
-
-	$timeDifference = $timeStampNow - $timeStampLastScrape;
 
 
-	if($timeDifference < $cachingTimeInSeconds && $cacheStrategyOn) {
 
-		//Change timestamp
-		//$timeStampNow = date($timeStampNow);
+
+	$timeSinceLastScrape = checkTimeSinceLastScrape($decodedJson, $timeStampNow);
+	
+
+	if($timeSinceLastScrape < $cachingTimeInSeconds && $cacheStrategyOn) {
+
 		$new_datetime = date('Y-m-d H:i:sa', $timeStampNow);
 
 		$decodedJson->Meta_data->Timestamp = $new_datetime;
@@ -40,7 +37,26 @@
 
 	    $data = curl_get_request("https://coursepress.lnu.se/kurser/");
 
+	    $numberOfPages = countNumberOfPages($data);
+
 	    $courseUrls = extractPageData($data, "//ul[@id='blogs-list']/li/div/div[@class='item-title']/a", true);
+
+	    for($i=1; $i<$numberOfPages; $i++) {
+
+	    	$pageNumber = $i + 1;
+
+	    	$newPageData = curl_get_request("https://coursepress.lnu.se/kurser/?bpage=" . $pageNumber);
+
+	    	$newCourseUrls = extractPageData($newPageData, "//ul[@id='blogs-list']/li/div/div[@class='item-title']/a", true);
+
+	    	//var_dump($newCourseUrls);
+
+	    	foreach ($newCourseUrls as $url) {
+	    		array_push($courseUrls, $url);
+	    	}
+	    }
+
+	    //var_dump(sizeof($courseUrls));
 
 
 	   	$coursesObjArray = array();
@@ -58,7 +74,6 @@
 
 
 
-		//Hämtar de olika elementen från sidan
 
 		$courseNames = extractPageData($courseDataArr, "//div[@id='header-wrapper']/h1/a", false);
 
@@ -109,6 +124,36 @@
 
 	}
 
+
+
+
+
+	function countNumberOfPages($firstPageData) {
+
+		$numberOfPages = extractPageData($firstPageData, '//div[@id = "blog-dir-pag-top"]/a[@class ="page-numbers"]', false);
+		
+
+		foreach ($numberOfPages as $key => $value) {
+			$numericPageValue = (int) $value;			
+		}
+
+		return $numericPageValue; 
+		
+	}
+
+
+
+
+	function checkTimeSinceLastScrape($decodedJson, $timeStampNow) {
+
+		$timeStr = $decodedJson->Meta_data->Timestamp;
+
+		$timeStampLastScrape = strtotime($timeStr);
+
+		$timeDifference = $timeStampNow - $timeStampLastScrape;
+
+		return $timeDifference;
+	}
 
 
 	function createMetaData($coursesObjArray) {
@@ -190,8 +235,13 @@
 	function extractPageData($courseData, $query, $getHrefAttr) {
 
 		$newTargetElements = array();
+		unset($newTargetElements);
+		$newTargetElements = array();
 
 		$courseDataArr = array();
+		unset($courseDataArr);
+		$newTargetElements = array();
+
 
 		if(!is_array($courseData)) {
 			array_push($courseDataArr, $courseData);
@@ -257,7 +307,11 @@
     function curl_get_request($tempUrlArr) {
         
         $urlArr = array();
+        unset($urlArr);
+        $urlArr = array();
 
+        $dataArray = array();
+        unset($dateArray);
         $dataArray = array();
 
         $countNumeric = false;
@@ -270,12 +324,20 @@
         }
 
         foreach ($urlArr as $url) {
-        
+
 	        $ch = curl_init();
 
-	        curl_setopt($ch, CURLOPT_URL, $url);
-	        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-	        
+	    	$userAgent = "test";
+
+		    $options = array(
+		        CURLOPT_RETURNTRANSFER => TRUE,  // Setting cURL's option to return the webpage data
+		        CURLOPT_AUTOREFERER => TRUE, // Automatically set the referer where following 'location' HTTP headers
+		        CURLOPT_USERAGENT => $userAgent,// Setting the useragent
+		        CURLOPT_URL => $url, // Setting cURL's URL option with the $url variable passed into the function
+		    );
+		    
+		    curl_setopt_array($ch, $options);
+
 	        $data = curl_exec($ch);
 	        curl_close($ch);
 	        
@@ -285,6 +347,8 @@
 	    		$dataArray[$url] = $data;
 	    	}
 	    }
+
+	    sizeof($dataArray);
 
 	    return $dataArray;
     }

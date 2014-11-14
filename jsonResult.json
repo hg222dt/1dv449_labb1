@@ -1,67 +1,67 @@
 {
     "Meta_data": {
-        "Amount of scraped course pages": 20,
-        "Timestamp": "2014-11-14 11:25:51am"
+        "Amount of scraped course pages": 82,
+        "Timestamp": "2014-11-14 03:08:59pm"
     },
     "Page_data": [
         {
             "Page 1": {
-                "Url": "https:\/\/coursepress.lnu.se\/kurs\/ria-utveckling-med-javascript\/",
-                "CourseName": "RIA-utveckling med JavaScript",
-                "CourseCode": "2DV407",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
-                "CourseDescription": "\r\n        V\u00c3\u00a4lkommen\n\u2026till kurswebben f\u00c3\u00b6r Linn\u00c3\u00a9universitets kurs RIA-utveckling med JavaScript som g\u00c3\u00a5r av stapeln andra delen av h\u00c3\u00b6stterminen 2014! Denna kurs ges som en del av det frivilliga tredje \u00c3\u00a5ret p\u00c3\u00a5 programmet f\u00c3\u00b6r Webbprogrammerare\u00c2\u00a0samt Utvecklare av digitala tj\u00c3\u00a4nster. Hela kursen ges p\u00c3\u00a5 distans, inga aktiviteter p\u00c3\u00a5 Campus f\u00c3\u00b6rekommer.\n            ",
-                "LatestPostTitle": "Ready set go!",
-                "LatestPostAuthor": "David Waller",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/strukturerad-programmering-med-cplusplus\/",
+                "CourseName": "Strukturerad programmering med C++",
+                "CourseCode": "1DV433",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n                Fakta\r\n            \r\n                \u00c3\u0084mne:\u00c2\u00a0DatavetenskapNiv\u00c3\u00a5:\u00c2\u00a0Grundniv\u00c3\u00a5H\u00c3\u00b6gskolepo\u00c3\u00a4ng:\u00c2\u00a07,5Kurskod:\u00c2\u00a01DV433            \r\n        Strukturerad programmering med C++\nI denna grundkurs l\u00c3\u00a4r du dig skapa console-baserade datorprogram p\u00c3\u00a5 ett procedurorienterat s\u00c3\u00a4tt med programspr\u00c3\u00a5ket C++. Kursen best\u00c3\u00a5r av teorimoment (3,5p) och praktiska till\u00c3\u00a4mpningar (4p). Allt kursmaterial utom kurslitteraturen h\u00c3\u00a4mtas p\u00c3\u00a5 denna webbplats \u2013 logga in med ditt studentkonto f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till detta. (Bara\u00c2\u00a0registrerade kursdeltagare\u00c2\u00a0har tillg\u00c3\u00a5ng till diskussionsgrupp eller gruppindelningar -\u00c2\u00a0anonyma bes\u00c3\u00b6kare har\u00c2\u00a0begr\u00c3\u00a4nsad \u00c3\u00a5tkomst till\u00c2\u00a0webbmaterialet.)\n            ",
+                "LatestPostTitle": "Inf\u00c3\u00b6r f\u00c3\u00b6rsta examinationen",
+                "LatestPostAuthor": "Anne Norling",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
             "Page 2": {
-                "Url": "https:\/\/coursepress.lnu.se\/kurs\/grafisk-design\/",
-                "CourseName": "Grafisk design",
-                "CourseCode": "1DI101",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
-                "CourseDescription": "\r\n        Kursen Grafisk design (HT13) vid Linn\u00c3\u00a9universitetet\nKursen Grafisk Design ing\u00c3\u00a5r som obligatorisk kurs under andra \u00c3\u00a5ret vid utbildningsprogrammet Interaktionsdesigner vid Linn\u00c3\u00a9universitetet. M\u00c3\u00a5let med kursen \u00c3\u00a4r att studenten skall f\u00c3\u00a5 en god f\u00c3\u00b6rst\u00c3\u00a5else f\u00c3\u00b6r hur man skapar och tolkar bild f\u00c3\u00b6r digitalt och analogt bruk. Studenten skall \u00c3\u00a4ven kunna anv\u00c3\u00a4nda sig av designprocessen f\u00c3\u00b6r att presentera bild och text via webbl\u00c3\u00b6sningar, datorprogram samt f\u00c3\u00b6r tryck. Fokus ligger p\u00c3\u00a5 bildbehandling utifr\u00c3\u00a5n ett professionellt perspektiv med fokus p\u00c3\u00a5 bildanalys och f\u00c3\u00b6rst\u00c3\u00a5else. Kursen best\u00c3\u00a5r av f\u00c3\u00b6ljande tv\u00c3\u00a5 delkurser:\nTeori: Detta delmoment ger grundl\u00c3\u00a4ggande f\u00c3\u00b6rst\u00c3\u00a5else och f\u00c3\u00a4rdighet inom omr\u00c3\u00a5dena typografi, bildanalys, perception samt grafisk design\nProjektarbetet: Kursen avslutas med ett projektarbete d\u00c3\u00a4r samtliga delar i f\u00c3\u00b6rsta delkursen v\u00c3\u00a4vs ihop. Projektet arbetet syftar till att l\u00c3\u00a5ta studenten visa upp f\u00c3\u00a4rdighet i att skapa grafiskt material samt kunna presentera detta f\u00c3\u00b6r en presumptiv publik i professionellt syfte\n",
-                "LatestPostTitle": "Grafisk design \u2013 f\u00c3\u00b6rel\u00c3\u00a4sning 1",
-                "LatestPostAuthor": "Morgan Rydbrink",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "Url": "https:\/\/coursepress.lnu.se\/",
+                "CourseName": "no information",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "no information",
+                "LatestPostTitle": "no information",
+                "LatestPostAuthor": "no information",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
             "Page 3": {
-                "Url": "https:\/\/coursepress.lnu.se\/kurs\/webbteknik-i\/",
-                "CourseName": "Webbteknik I",
-                "CourseCode": "1DV403",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
-                "CourseDescription": "\r\n        Klientsideutveckling med JavaScript\nKursen Webbteknik I \u00c3\u00a4r en kurs som inom ramen f\u00c3\u00b6r programmen \u00e2\u0080\u009dWebbprogrammerare\u00e2\u0080\u009d och \u00e2\u0080\u009dUtvecklare av digitala tj\u00c3\u00a4nster\u00e2\u0080\u009d vid Linn\u00c3\u00a9universitetet i Kalmar och genomf\u00c3\u00b6rs p\u00c3\u00a5 campus s\u00c3\u00a5v\u00c3\u00a4l som distans.\nEn av de senaste \u00c3\u00a5rens webbtrender \u00c3\u00a4r att fler och fler applikationen flyttar fr\u00c3\u00a5n den lokala datorn till webben vilket inneb\u00c3\u00a4r att anv\u00c3\u00a4ndandet och betydelsen av Javascript \u00c3\u00b6kar. Detta st\u00c3\u00a4ller h\u00c3\u00b6gre krav p\u00c3\u00a5 webbutvecklaren i form av disciplin och kunnande.\nKursen behandlar Javascript fr\u00c3\u00a5n grunden och tar dig fr\u00c3\u00a5n \u00e2\u0080\u009dHello World\u00e2\u0080\u009d till att skapa en fullfj\u00c3\u00a4drad Javascriptapplikation i form av ett webbbaserat f\u00c3\u00b6nsterhanteringssystem med Ajax. Genomg\u00c3\u00a5ende l\u00c3\u00a4r du dig ett modernt arbetss\u00c3\u00a4tt och betydelsen av att skapa tillg\u00c3\u00a4ngliga och s\u00c3\u00a4kra applikationer. I slutprojektet har du m\u00c3\u00b6jlighet att f\u00c3\u00b6rkovra dig i ett javascript bibliotek s\u00c3\u00a5 som exempelvis jQuery, men kursens m\u00c3\u00a5l \u00c3\u00a4r att l\u00c3\u00a4ra sig JavaScript fr\u00c3\u00a5n grunden.\nP\u00c3\u00a5 denna webbplats hittar du all information kring kursen. \u00c3\u0084r du student p\u00c3\u00a5 kursen b\u00c3\u00b6r du logga in f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till gruppindelningar, forum etc.\n\u00c3\u0084r du h\u00c3\u00a4r som bes\u00c3\u00b6kare kan du f\u00c3\u00b6lja med i kursen genom att f\u00c3\u00b6lja materialet p\u00c3\u00a5 denna webbplats. F\u00c3\u00b6rel\u00c3\u00a4sningar publiceras i takt med att de genomf\u00c3\u00b6rs p\u00c3\u00a5 campus i Kalmar.\n            ",
-                "LatestPostTitle": "Programmeringsstuga",
-                "LatestPostAuthor": "Johan Leitet",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/ria-utveckling-med-javascript\/",
+                "CourseName": "RIA-utveckling med JavaScript",
+                "CourseCode": "2DV407",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        V\u00c3\u00a4lkommen\n\u2026till kurswebben f\u00c3\u00b6r Linn\u00c3\u00a9universitets kurs RIA-utveckling med JavaScript som g\u00c3\u00a5r av stapeln andra delen av h\u00c3\u00b6stterminen 2014! Denna kurs ges som en del av det frivilliga tredje \u00c3\u00a5ret p\u00c3\u00a5 programmet f\u00c3\u00b6r Webbprogrammerare\u00c2\u00a0samt Utvecklare av digitala tj\u00c3\u00a4nster. Hela kursen ges p\u00c3\u00a5 distans, inga aktiviteter p\u00c3\u00a5 Campus f\u00c3\u00b6rekommer.\n            ",
+                "LatestPostTitle": "Ready set go!",
+                "LatestPostAuthor": "David Waller",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
             "Page 4": {
-                "Url": "https:\/\/coursepress.lnu.se\/",
-                "CourseName": "no information",
-                "CourseCode": "no information",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
-                "CourseDescription": "no information",
-                "LatestPostTitle": "no information",
-                "LatestPostAuthor": "no information",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/grafisk-design\/",
+                "CourseName": "Grafisk design",
+                "CourseCode": "1DI101",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Grafisk design (HT13) vid Linn\u00c3\u00a9universitetet\nKursen Grafisk Design ing\u00c3\u00a5r som obligatorisk kurs under andra \u00c3\u00a5ret vid utbildningsprogrammet Interaktionsdesigner vid Linn\u00c3\u00a9universitetet. M\u00c3\u00a5let med kursen \u00c3\u00a4r att studenten skall f\u00c3\u00a5 en god f\u00c3\u00b6rst\u00c3\u00a5else f\u00c3\u00b6r hur man skapar och tolkar bild f\u00c3\u00b6r digitalt och analogt bruk. Studenten skall \u00c3\u00a4ven kunna anv\u00c3\u00a4nda sig av designprocessen f\u00c3\u00b6r att presentera bild och text via webbl\u00c3\u00b6sningar, datorprogram samt f\u00c3\u00b6r tryck. Fokus ligger p\u00c3\u00a5 bildbehandling utifr\u00c3\u00a5n ett professionellt perspektiv med fokus p\u00c3\u00a5 bildanalys och f\u00c3\u00b6rst\u00c3\u00a5else. Kursen best\u00c3\u00a5r av f\u00c3\u00b6ljande tv\u00c3\u00a5 delkurser:\nTeori: Detta delmoment ger grundl\u00c3\u00a4ggande f\u00c3\u00b6rst\u00c3\u00a5else och f\u00c3\u00a4rdighet inom omr\u00c3\u00a5dena typografi, bildanalys, perception samt grafisk design\nProjektarbetet: Kursen avslutas med ett projektarbete d\u00c3\u00a4r samtliga delar i f\u00c3\u00b6rsta delkursen v\u00c3\u00a4vs ihop. Projektet arbetet syftar till att l\u00c3\u00a5ta studenten visa upp f\u00c3\u00a4rdighet i att skapa grafiskt material samt kunna presentera detta f\u00c3\u00b6r en presumptiv publik i professionellt syfte\n",
+                "LatestPostTitle": "Grafisk design \u2013 f\u00c3\u00b6rel\u00c3\u00a4sning 1",
+                "LatestPostAuthor": "Morgan Rydbrink",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
             "Page 5": {
-                "Url": "https:\/\/coursepress.lnu.se\/kurs\/strukturerad-programmering-med-cplusplus\/",
-                "CourseName": "Strukturerad programmering med C++",
-                "CourseCode": "1DV433",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
-                "CourseDescription": "\r\n                Fakta\r\n            \r\n                \u00c3\u0084mne:\u00c2\u00a0DatavetenskapNiv\u00c3\u00a5:\u00c2\u00a0Grundniv\u00c3\u00a5H\u00c3\u00b6gskolepo\u00c3\u00a4ng:\u00c2\u00a07,5Kurskod:\u00c2\u00a01DV433            \r\n        Strukturerad programmering med C++\nI denna grundkurs l\u00c3\u00a4r du dig skapa console-baserade datorprogram p\u00c3\u00a5 ett procedurorienterat s\u00c3\u00a4tt med programspr\u00c3\u00a5ket C++. Kursen best\u00c3\u00a5r av teorimoment (3,5p) och praktiska till\u00c3\u00a4mpningar (4p). Allt kursmaterial utom kurslitteraturen h\u00c3\u00a4mtas p\u00c3\u00a5 denna webbplats \u2013 logga in med ditt studentkonto f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till detta. (Bara\u00c2\u00a0registrerade kursdeltagare\u00c2\u00a0har tillg\u00c3\u00a5ng till diskussionsgrupp eller gruppindelningar -\u00c2\u00a0anonyma bes\u00c3\u00b6kare har\u00c2\u00a0begr\u00c3\u00a4nsad \u00c3\u00a5tkomst till\u00c2\u00a0webbmaterialet.)\n            ",
-                "LatestPostTitle": "Inf\u00c3\u00b6r f\u00c3\u00b6rsta examinationen",
-                "LatestPostAuthor": "Anne Norling",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/webbteknik-i\/",
+                "CourseName": "Webbteknik I",
+                "CourseCode": "1DV403",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Klientsideutveckling med JavaScript\nKursen Webbteknik I \u00c3\u00a4r en kurs som inom ramen f\u00c3\u00b6r programmen \u00e2\u0080\u009dWebbprogrammerare\u00e2\u0080\u009d och \u00e2\u0080\u009dUtvecklare av digitala tj\u00c3\u00a4nster\u00e2\u0080\u009d vid Linn\u00c3\u00a9universitetet i Kalmar och genomf\u00c3\u00b6rs p\u00c3\u00a5 campus s\u00c3\u00a5v\u00c3\u00a4l som distans.\nEn av de senaste \u00c3\u00a5rens webbtrender \u00c3\u00a4r att fler och fler applikationen flyttar fr\u00c3\u00a5n den lokala datorn till webben vilket inneb\u00c3\u00a4r att anv\u00c3\u00a4ndandet och betydelsen av Javascript \u00c3\u00b6kar. Detta st\u00c3\u00a4ller h\u00c3\u00b6gre krav p\u00c3\u00a5 webbutvecklaren i form av disciplin och kunnande.\nKursen behandlar Javascript fr\u00c3\u00a5n grunden och tar dig fr\u00c3\u00a5n \u00e2\u0080\u009dHello World\u00e2\u0080\u009d till att skapa en fullfj\u00c3\u00a4drad Javascriptapplikation i form av ett webbbaserat f\u00c3\u00b6nsterhanteringssystem med Ajax. Genomg\u00c3\u00a5ende l\u00c3\u00a4r du dig ett modernt arbetss\u00c3\u00a4tt och betydelsen av att skapa tillg\u00c3\u00a4ngliga och s\u00c3\u00a4kra applikationer. I slutprojektet har du m\u00c3\u00b6jlighet att f\u00c3\u00b6rkovra dig i ett javascript bibliotek s\u00c3\u00a5 som exempelvis jQuery, men kursens m\u00c3\u00a5l \u00c3\u00a4r att l\u00c3\u00a4ra sig JavaScript fr\u00c3\u00a5n grunden.\nP\u00c3\u00a5 denna webbplats hittar du all information kring kursen. \u00c3\u0084r du student p\u00c3\u00a5 kursen b\u00c3\u00b6r du logga in f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till gruppindelningar, forum etc.\n\u00c3\u0084r du h\u00c3\u00a4r som bes\u00c3\u00b6kare kan du f\u00c3\u00b6lja med i kursen genom att f\u00c3\u00b6lja materialet p\u00c3\u00a5 denna webbplats. F\u00c3\u00b6rel\u00c3\u00a4sningar publiceras i takt med att de genomf\u00c3\u00b6rs p\u00c3\u00a5 campus i Kalmar.\n            ",
+                "LatestPostTitle": "Programmeringsstuga",
+                "LatestPostAuthor": "Johan Leitet",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -69,11 +69,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/klientbaserad-webbutveckling\/",
                 "CourseName": "Klientbaserad webbutveckling",
                 "CourseCode": "1DV435",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Klientbaserad webbutveckling \u2013 Linn\u00c3\u00a9universitetet\nI denna kurs kommer fokus ligga p\u00c3\u00a5 teknik och praktik kring byggandet av webbplatser med fokus p\u00c3\u00a5 klientbaserad webbutveckling. Kursen fokuserar dels p\u00c3\u00a5 modern utveckling med HTML5 och CSS samt \u00c3\u00a4ven p\u00c3\u00a5 grundl\u00c3\u00a4ggande programmering med JavaScript som programmeringsspr\u00c3\u00a5k. Kursen avslutas med ett st\u00c3\u00b6rre projekt d\u00c3\u00a4r dessa tekniker anv\u00c3\u00a4nds.\n            ",
                 "LatestPostTitle": "Programmeringsstuga",
                 "LatestPostAuthor": "Johan Leitet",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -81,11 +81,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/aspnet-mvc\/",
                 "CourseName": "ASP.NET MVC",
                 "CourseCode": "1DV409",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Kurs i att skapa webbapplikationer enligt designm\u00c3\u00b6nstret MVC\nKursen ASP.NET MVC \u00c3\u00a4r en kurs som inom ramen f\u00c3\u00b6r programmet \u00e2\u0080\u009dWebbprogrammerare\u00e2\u0080\u009d vid Linn\u00c3\u00a9universitetet i Kalmar och genomf\u00c3\u00b6rs p\u00c3\u00a5 campus s\u00c3\u00a5v\u00c3\u00a4l som distans. Kursen behandlar planering och skapade av webbapplikationer med ASP.NET MVC 5. Webbapplikationernas persistenta data lagras i databaser och hanteras med fr\u00c3\u00a4mst Entity Framework.\nP\u00c3\u00a5 denna webbplats hittar du all information kring kursen. \u00c3\u0084r du kursdeltagare b\u00c3\u00b6r du logga in f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till gruppindelningar, forum, etc., n\u00c3\u00a4r dessa tj\u00c3\u00a4nster finns att tillg\u00c3\u00a5 i samband med kursstart.\n\u00c3\u0084r du h\u00c3\u00a4r som bes\u00c3\u00b6kare kan du f\u00c3\u00b6lja med i kursen genom att f\u00c3\u00b6lja materialet p\u00c3\u00a5 denna webbplats. F\u00c3\u00b6rel\u00c3\u00a4sningar publiceras i takt med att de genomf\u00c3\u00b6rs p\u00c3\u00a5 campus i Kalmar.\n            ",
                 "LatestPostTitle": "Ingen kurslitteratur?",
                 "LatestPostAuthor": "Mats Loock",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -93,11 +93,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/mjukvarutestning\/",
                 "CourseName": "Mjukvarutestning (Software Testing)",
                 "CourseCode": "2DV110",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Kursen Mjukvarutestning(Software testing) (HT13) vid Linn\u00c3\u00a9universitetet\nThe aim of the course is to provide students with basic knowledge in software testing.\n            ",
                 "LatestPostTitle": "Intention to complete the course form",
                 "LatestPostAuthor": "Daniel Toll",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -105,11 +105,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/avancerade-lan-teknologier\/",
                 "CourseName": "Avancerade LAN-teknologier",
                 "CourseCode": "1DV447",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Kursen Avancerade LAN-teknologier (HT14) vid Linn\u00c3\u00a9universitetet\n\u00c3\u0085rets upplaga, den kanske sista, av kursen drar ig\u00c3\u00a5ng den 4 november klockan 13:15 i Ny104.\nKursen \u00c3\u00a4r en f\u00c3\u00b6rdjupning inom virtuella lokala n\u00c3\u00a4tverk, loopfria n\u00c3\u00a4tverk och redundans. I f\u00c3\u00b6rsta halvan av kursen kommer fokus fr\u00c3\u00a4mst ligga p\u00c3\u00a5 teori och under andra halvan p\u00c3\u00a5 praktiskt arbete \u00c3\u00a4ven om laborationshandledning kommer f\u00c3\u00b6rekomma kontinuerligt under hela kursen. Kursen har fyra examinerande moment (seminarium, tentamen, projekt och laboration) s\u00c3\u00a5 det \u00c3\u00a4r m\u00c3\u00a5nga examinationer att f\u00c3\u00b6rbereda sig f\u00c3\u00b6r utspridda \u00c3\u00b6ver hela kurstiden. F\u00c3\u00b6r att bli godk\u00c3\u00a4nd p\u00c3\u00a5 kursen \u00c3\u00a4r tanken att man sj\u00c3\u00a4lvst\u00c3\u00a4ndigt ska kunna designa och konfigurera ett flerlagerswitchat n\u00c3\u00a4tverk.\n            ",
                 "LatestPostTitle": "Fredagens \u201credovisning\u201d",
                 "LatestPostAuthor": "Thomas Ivarsson",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -117,11 +117,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/design-av-grafiska-granssnitt\/",
                 "CourseName": "Design av grafiska gr\u00c3\u00a4nssnitt",
                 "CourseCode": "1ME403",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Kursen Design av grafiska gr\u00c3\u00a4nssnitt (HT13) vid Linn\u00c3\u00a9universitetet\nV\u00c3\u00a4lkommen till kursen Design av grafiska gr\u00c3\u00a4nssnitt!\n            ",
                 "LatestPostTitle": "no information",
                 "LatestPostAuthor": "no information",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -129,11 +129,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/webbteknik-ii\/",
                 "CourseName": "Webbteknik II",
                 "CourseCode": "1DV449",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Kursen Webbteknik II (HT12) vid Linn\u00c3\u00a9universitetet\nDenna kurs fokuserar helt p\u00c3\u00a5 webben. Kursen tar upp webbens historia, utveckling och betydelse f\u00c3\u00b6r samh\u00c3\u00a4llet, problem inom forskningen kring webben (Web Science). Kursen tar ocks\u00c3\u00a5 upp optimering och s\u00c3\u00a4kerhet i webbapplikationer. Stort fokus kommer att ligga i att kunna hantera \u00c3\u00b6ppna Webb-API:er f\u00c3\u00b6r att sammanfoga data i s\u00c3\u00a5 kallade mashup-applikationer.\n            ",
                 "LatestPostTitle": "Gl\u00c3\u00b6m inte anm\u00c3\u00a4la er till redovisningspass",
                 "LatestPostAuthor": "John H\u00c3\u00a4ggerud",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -141,11 +141,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/operativsystem\/",
                 "CourseName": "Operativsystem",
                 "CourseCode": "1DV012",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        \n1DV012 Operating Systems, 7.5 credits\n\nThis course will discuss operating system concepts. We will learn about the process concept, process scheduling and synchronization, memory management and file management.\nThis course includes a series of lectures and a practical assignment.\nIn total 20 points may be achieved during the course,\n* practical assignment: 10 (minimum 6 points are required)* final exam: 10 (minimum 6 points are required)At least 12 points are needed to Pass (G) the course, whereas with at least 16 points the course is Passed with Distinction (VG). \nPlease keep visiting this website, since additional relevant information for the course will be included continually.\nThe deadline for course registration in H14 was April 15, 2014. The precondition for course participation is that students have previously completed the following courses: \u201cProblem Solving and Programming (1DV006)\u201d, and \u201cProgramming and Data Structures (1DV007).\u201d\nCourse Participants in H14 (Status: November 10, 2014)\n01.\tBengtsson,\tH\u00e5kan\n02.\tBergman,\tJohannes\n03.\tBilgic,\tNazli\n04.\tBj\u00f6rk,\tBenjamin\n05.\tBlixt,\tDaniel\n06.\tBogdanovic,\tMilos\n07.\tDarvelid,\tMarcus\n08.\tDoroudian,\tAmir\n09.\tEbersohl,\tBrandon\n10.\tEbert,\tDylan\n11.\tGerdzhikov,\tPetko\n12.\tGriffith,\tIoseff\n13.\tG\u00fcndogdu,\tElif\n14.\tHallink,\tRobert\n15.\tHolmstr\u00f6m,\tJesper\n16.\tIsaksson,\tM\u00e5rten\n17.\tJohansson,\tAnders\n18.\tJ\u00f6nsson,\tLudwig\n19.\tKomolafe\tYemi\n20.\tLagerkrants,\tEleonor\n21.\tLegaspi Ramos,\tXurxo\n22.\tLjungqvist,\tMattias\n23.\tMedestr\u00f6m,\tJohan\n24.\tM\u00f6senbacher,\tAnton\n25.\tNasser-Eddine,\tHussein\n26.\tNilsson,\tDaniel\n27.\tNilsson,\tMagnus\n28.\tPage,\tRaphael\n29.\tPagels,\tCarl\n30.\tPalm,\tMarkus\n31.\tPetersson Costa,\tAnnika\n32.\tPrado,\tPriscila\n33.\tRadhouane,\tSelina\n34.\tRong,\tHuan\n35.\tRozenblioum,\tPavel\n36.\tSchiedt,\tFlorian\n37.\tSteczko,\tJan\n38.\tSundstr\u00f6m,\tTed\n39.\tS\u00f6derlund,\tOscar\n40.\tS\u00f6ylemez,\tAbdullah\n41.\tThomas,\tKevin\n42.\tTorsson,\tMarkus\n43.\tUlm,\tGregor\n44.\tVulgari,\tSophia-Kyriaki\n45.\tV\u00e5ng\u00f6,\tJakob\n46.\tWassbjer,\tRobin\n47.\tXue,\tYibing\n48.\tYu,\tWeibin\n49.\t\u00c5kesson,\tMelker\n50.\t\u00d6zdemir,\tOzan\n            ",
                 "LatestPostTitle": "no information",
                 "LatestPostAuthor": "no information",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -153,11 +153,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/grafiska-verktyg\/",
                 "CourseName": "Grafiska verktyg",
                 "CourseCode": "1ME402",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Kursen Grafiska verktyg (HT13) vid Linn\u00c3\u00a9universitetet\nV\u00c3\u00a4lkommen till kursen!\nP\u00c3\u00a5 sidan kurs\u00c3\u00b6versikt\u00c2\u00a0s\u00c3\u00a5 hittar du en beskrivning av uppl\u00c3\u00a4gg och inneh\u00c3\u00a5ll f\u00c3\u00b6r kursen.\nI kursforumet kan du f\u00c3\u00a5 tips och st\u00c3\u00a4lla fr\u00c3\u00a5gor.\n            ",
                 "LatestPostTitle": "no information",
                 "LatestPostAuthor": "no information",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -165,11 +165,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/databasteknik-och-administration-av-databas\/",
                 "CourseName": "Databasteknik\u00c2\u00a0och\u00c2\u00a0administration\u00c2\u00a0av\u00c2\u00a0databas",
                 "CourseCode": "1DV423",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n                Fakta\r\n            \r\n                \u00c3\u0084mne: DatavetenskapNiv\u00c3\u00a5: Grundniv\u00c3\u00a5H\u00c3\u00b6gskolepo\u00c3\u00a4ng: 7,5Kurskod: 1DV423            \r\n        Kurs i Databasteknik och administration HT14\nP\u00c3\u00a5 denna webbplats hittar du all information kring kursen. De flesta sidorna med sin information \u00c3\u00a4r helt \u00c3\u00b6ppna \u2013 ett f\u00c3\u00a5tal sidor kr\u00c3\u00a4ver inloggning beroende p\u00c3\u00a5 att det \u00c3\u00a4r privat information.\n            ",
                 "LatestPostTitle": "Flyttad f\u00c3\u00b6rel\u00c3\u00a4sningar",
                 "LatestPostAuthor": "Jacob Lindehoff",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -177,11 +177,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/grundlaggande-spelprogrammering\/",
                 "CourseName": "Grundl\u00c3\u00a4ggande spelprogrammering",
                 "CourseCode": "1DV437",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Kursen Grundl\u00c3\u00a4ggande spelprogrammering vid Linn\u00c3\u00a9universitetet\nKursen i grundl\u00c3\u00a4ggande spelprogrammering syftar till att ge studenterna en f\u00c3\u00b6rsta inblick i spelprogrammering men \u00c3\u00a4ven en god bas att bygga dator\/tv\/mobil-spel och andra interaktiva applikationer. Kursen \u00c3\u00a4r i sig programspr\u00c3\u00a5ks och plattforms-oberoende. Detta betyder att studenten sj\u00c3\u00a4lv har en m\u00c3\u00b6jlighet att v\u00c3\u00a4lja implementationsspr\u00c3\u00a5k och plattform. Tidigare \u00c3\u00a5r har spel till Android, XBox 360 och PC-plattformarna utvecklats av v\u00c3\u00a5ra studenter.\nValet av programspr\u00c3\u00a5k och plattform \u00c3\u00a4r mer beroende av studentens kunskaper och f\u00c3\u00b6r att l\u00c3\u00a4sa kursen b\u00c3\u00b6r studenten ha goda kunskaper i implementationsspr\u00c3\u00a5ket.\nKursen best\u00c3\u00a5r utav tre laborationer och ett projekt.\n            ",
                 "LatestPostTitle": "P\u00c3\u00a5 resa",
                 "LatestPostAuthor": "Daniel Toll",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -189,11 +189,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/iterativ-mjukvaruutveckling\/",
                 "CourseName": "Iterativ mjukvaruutveckling",
                 "CourseCode": "1DV404",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Kursen Iterativ mjukvaruutveckling (HT14) vid Linn\u00c3\u00a9universitetet\nSyfte och Inneh\u00c3\u00a5ll\nI kursplanen kan man l\u00c3\u00a4sa att \u201cKursen\u00c2\u00a0syftar\u00c2\u00a0till\u00c2\u00a0att\u00c2\u00a0ge\u00c2\u00a0insikt\u00c2\u00a0i\u00c2\u00a0hur iterativa utvecklingsprocesser f\u00c3\u00b6r\u00c2\u00a0mjukvara\u00c2\u00a0ser\u00c2\u00a0ut\nsamt\u00c2\u00a0ge\u00c2\u00a0kunskap\u00c2\u00a0i\u00c2\u00a0grundl\u00c3\u00a4ggande\u00c2\u00a0arbetsmoment\u00c2\u00a0och\u00c2\u00a0dokumentation\u201d\nF\u00c3\u00b6r att effektivt kunna planera, genomf\u00c3\u00b6ra och f\u00c3\u00b6lja upp ett mjukvaruprojekt beh\u00c3\u00b6ver man f\u00c3\u00b6rst\u00c3\u00a5else f\u00c3\u00b6r ett stort antal begrepp, metoder och tekniker. Det som \u00c3\u00a4r allra viktigast \u00c3\u00a4r \u00c3\u00a4nd\u00c3\u00a5 erfarenhet och det finns egentligen bara ett effektivt s\u00c3\u00a4tt att skapa sig erfarenheter och det \u00c3\u00a4r att uppleva b\u00c3\u00a5de problem och pr\u00c3\u00b6va olika l\u00c3\u00b6sningar. \u00c2\u00a0D\u00c3\u00a5 kursen v\u00c3\u00a4nder sig till dig som kanske inte har s\u00c3\u00a5 mycket erfarenhet fr\u00c3\u00a5n utveckling av mjukvara s\u00c3\u00a5 kommer vi b\u00c3\u00b6rja fr\u00c3\u00a5n b\u00c3\u00b6rjan.\nTyngdpunkten i kursen ligger p\u00c3\u00a5 planering och genomf\u00c3\u00b6randet av utvecklingsprojekt i grupp. Vi kommer anv\u00c3\u00a4nda oss av en pedagogik d\u00c3\u00a4r du f\u00c3\u00b6rst f\u00c3\u00a5r f\u00c3\u00b6rel\u00c3\u00a4sningar med viss historik samt \u00c3\u00b6versikt av teori och praktik. D\u00c3\u00a4refter f\u00c3\u00a5r du m\u00c3\u00b6jlighet att prova dig fram sj\u00c3\u00a4lvst\u00c3\u00a4ndigt eller i grupp i de praktiska laborationerna. Tanken med laborationerna \u00c3\u00a4r att du skall prova det som kanske k\u00c3\u00a4nns direkt som den intuitivt b\u00c3\u00a4sta ansatsen och d\u00c3\u00a4refter utifr\u00c3\u00a5n dina direkta erfarenheter kanske f\u00c3\u00b6r\u00c3\u00a4ndra och f\u00c3\u00b6rb\u00c3\u00a4ttra vad och hur du g\u00c3\u00b6r saker.\nGenomf\u00c3\u00b6rande\nKursen best\u00c3\u00a5r av ett antal F\u00c3\u00b6rel\u00c3\u00a4sningar och Laborationer. Vi har schemalagt tv\u00c3\u00a5 f\u00c3\u00b6rel\u00c3\u00a4sningar i veckan fram till jul. Undantag f\u00c3\u00b6r veckorna 46 och 47. F\u00c3\u00b6rel\u00c3\u00a4sningar kommer str\u00c3\u00b6mmas och spelas in via Adobe Connect. Det samma g\u00c3\u00a4ller f\u00c3\u00b6r handledning av laborationer.\nKursrum i Adobe Connect\n            ",
                 "LatestPostTitle": "Laboration 1 tillg\u00c3\u00a4nglig",
                 "LatestPostAuthor": "Jesper Andersson",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -201,11 +201,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/inledande-programmering-med-csharp\/",
                 "CourseName": "Inledande programmering med C#",
                 "CourseCode": "1DV402",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Grundkurs i programmering med C#\nKursen Inledande programmering med C# \u00c3\u00a4r en frist\u00c3\u00a5ende kurs och programkurs f\u00c3\u00b6r studenter vid programmen \u00e2\u0080\u009cUtvecklare av digitala tj\u00c3\u00a4nster\u00e2\u0080\u009d och \u00e2\u0080\u009dWebbprogrammerare\u00e2\u0080\u009d vid Linn\u00c3\u00a9universitetet i Kalmar och genomf\u00c3\u00b6rs p\u00c3\u00a5 campus s\u00c3\u00a5v\u00c3\u00a4l som distans. Kursen behandlar grunderna i objektorienterad programmering d\u00c3\u00a4r applikationer skrivs f\u00c3\u00b6r konsolmilj\u00c3\u00b6n.\nP\u00c3\u00a5 denna webbplats hittar du all information kring kursen. \u00c3\u0084r du kursdeltagare b\u00c3\u00b6r du logga in f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till gruppindelningar, forum, etc. n\u00c3\u00a4r dessa tj\u00c3\u00a4nster finns att tillg\u00c3\u00a5 i samband med kursstart.\n\u00c3\u0084r du h\u00c3\u00a4r som bes\u00c3\u00b6kare kan du f\u00c3\u00b6lja med i kursen genom att f\u00c3\u00b6lja materialet p\u00c3\u00a5 denna webbplats. F\u00c3\u00b6rel\u00c3\u00a4sningar publiceras i takt med att de genomf\u00c3\u00b6rs p\u00c3\u00a5 campus i Kalmar.\n            ",
                 "LatestPostTitle": "Restredovisningar",
                 "LatestPostAuthor": "Mats Loock",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -213,11 +213,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/brukarorienterad-design\/",
                 "CourseName": "Brukarorienterad design",
                 "CourseCode": "1IK430",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Kursen Brukarorienterad design (HT14) vid Linn\u00c3\u00a9universitetet\nKursen introducerar begrepp och metoder som ing\u00c3\u00a5r i brukarorienterad design. De studerande f\u00c3\u00a5r b\u00c3\u00a5de teoretisk och praktisk kunskap om hur de kan unders\u00c3\u00b6ka bruk av artefakter f\u00c3\u00b6r interaktioner i vardag och i arbetsliv samt vilken betydelse studier av bruk har f\u00c3\u00b6r interaktionsdesign. Kursen betonar ocks\u00c3\u00a5 att design \u00c3\u00a4r en integrerad del av sammanhanget artefakten brukas i f\u00c3\u00b6r kommunikation och interaktion. Dessutom betonas att andra \u00c3\u00a4mnen \u00c3\u00a4r anv\u00c3\u00a4ndbara f\u00c3\u00b6r att berika analytiska perspektiv f\u00c3\u00b6r att unders\u00c3\u00b6ka bruk av artefakter f\u00c3\u00b6r interaktioner.\nStudenterna kommer ocks\u00c3\u00a5 att konstruera en applikation f\u00c3\u00b6r en utvald grupp av brukare, motivera valda metoder och designbeslut. Kursen l\u00c3\u00a4gger vikt vid att studenterna ska kunna kombinera en f\u00c3\u00b6rst\u00c3\u00a5else av bruk med en teknisk f\u00c3\u00b6rst\u00c3\u00a5else i design av digitala artefakter f\u00c3\u00b6r kommunikation och interaktion.\n            ",
                 "LatestPostTitle": "Filmer",
                 "LatestPostAuthor": "Susanne Isaksson",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -225,11 +225,11 @@
                 "Url": "https:\/\/coursepress.lnu.se\/program\/interaktionsdesigner\/",
                 "CourseName": "Interaktionsdesigner 180hp",
                 "CourseCode": "no information",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Vill du plugga interaktionsdesign?\nDu har kommit till programportalen f\u00c3\u00b6r utbildningsprogrammet Interaktionsdesigner vid Linn\u00c3\u00a9universitetet. P\u00c3\u00a5 denna sida hittar du information riktad till kommande och nuvarande studenter samt mot n\u00c3\u00a4ringsliv och samarbetspartners. H\u00c3\u00a4r finns \u00c3\u00a4ven information kring kurser som ing\u00c3\u00a5r i programmet, genomf\u00c3\u00b6rande och kontaktuppgifter till programansvarige, Morgan Rydbrink.\nL\u00c3\u00a4s mer om utbildningen h\u00c3\u00a4r\nDet \u00c3\u00a4r inte l\u00c3\u00a4ngre m\u00c3\u00b6jligt att ans\u00c3\u00b6ka till programmet inf\u00c3\u00b6r starten HT 2014.\nVill du veta mer eller har n\u00c3\u00a5gra specifika fr\u00c3\u00a5gor? Kontakta oss eller titta runt p\u00c3\u00a5 portalen.\n            ",
                 "LatestPostTitle": "Stora IT-kompetensdagen",
                 "LatestPostAuthor": "Morgan Rydbrink",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         },
         {
@@ -237,11 +237,755 @@
                 "Url": "https:\/\/coursepress.lnu.se\/kurs\/objektorienterad-analys-och-design-med-uml\/",
                 "CourseName": "Objektorienterad analys och design med UML",
                 "CourseCode": "1DV407",
-                "CoursePlanUrl": "http:\/\/kursplan.lnu.se\/kursplaner\/syllabus-1DV407-2.pdf",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
                 "CourseDescription": "\r\n        Kursen Objektorienterad analys och design med UML vid Linn\u00c3\u00a9universitetet\nKursen handlar om objektorientering med fokus p\u00c3\u00a5 objektorienterad analys\/dom\u00c3\u00a4nmodellering och objektorienterad design med praktiska exempel i objektorienterad programmering.\nKursen behandlar de moment i mjukvaruutveckling som avser att \u00c3\u00b6ka f\u00c3\u00b6rst\u00c3\u00a5elsen f\u00c3\u00b6r ett problemomr\u00c3\u00a5de och kommunicera mer eller mindre detaljerade ritningar \u00c3\u00b6ver ett system med hj\u00c3\u00a4lp av UML (Unified Modeling Language). Efter avslutad kurs kommer du ha kunskap i hur man kan ta fram en en dom\u00c3\u00a4nmodell f\u00c3\u00b6r att \u00c3\u00b6ka och kommunicera f\u00c3\u00b6rst\u00c3\u00a5elsen f\u00c3\u00b6r ett problemomr\u00c3\u00a5de, hur man kan modellera hela eller delar av ett mjukvarusystem fr\u00c3\u00a5n olika perspektiv. Du kommer ha kunskap i hur en objektorienterad modell kan \u00c3\u00b6vers\u00c3\u00a4ttas till ett objektorienterat programmeringsspr\u00c3\u00a5k och vice versa. Du kommer att ha grundl\u00c3\u00a4ggande f\u00c3\u00b6rst\u00c3\u00a5else f\u00c3\u00b6r designm\u00c3\u00b6nster och refactoring (omstrukturering) som designmetoder.\nKursen kr\u00c3\u00a4ver 30hp inom \u00c3\u00a4mnena datavetenskap, datateknik, informatik eller motsvarande. Samt kunskap i objektorienterad programmering motsvarande 7,5hp.\n            ",
                 "LatestPostTitle": "Final Submission of Workshops",
                 "LatestPostAuthor": "Tobias Ohlsson",
-                "LatestPostTimeStamp": "2014-11-03 05:46"
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 21": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/webbutveckling-med-php\/",
+                "CourseName": "Webbutveckling med PHP",
+                "CourseCode": "1DV408",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Webbutveckling med PHP vid Linn\u00c3\u00a9universitetet\nKursen Webbutveckling med PHP, 7.5 Hp syftar till att ge er ett andra programmeringsspr\u00c3\u00a5k f\u00c3\u00b6r serversidan. Den f\u00c3\u00b6rsta delen handlar om spr\u00c3\u00a5ket PHP och hur objektorienterade applikationer kan skrivas med hj\u00c3\u00a4lp utav det. Men spr\u00c3\u00a5kets grunder \u00c3\u00a4r bara b\u00c3\u00b6rjan, kursen syftar ocks\u00c3\u00a5 till att ge en djupare insikt i programmering\u2026 [l\u00c3\u00a4s mer...]\n            ",
+                "LatestPostTitle": "Projekt r\u00c3\u00a4ttade och betyg inl\u00c3\u00a4mnade",
+                "LatestPostAuthor": "Daniel Toll",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 22": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/amnesintroduktion-till-interaktionsdesign\/",
+                "CourseName": "\u00c3\u0084mnesintroduktion till interaktionsdesign",
+                "CourseCode": "1IK420",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        \u00c3\u0084mnesintroduktion till interaktionsdesign vid Linn\u00c3\u00a9universitetet\nKursen \u00c3\u0084mnesintroduktion till interaktionsdesign \u00c3\u00a4r den f\u00c3\u00b6rsta kursen som ing\u00c3\u00a5r i utbildningsprogrammet interaktionsdesigner. M\u00c3\u00a5let med kursen \u00c3\u00a4r att ge programstudenterna en grundl\u00c3\u00a4ggande kunskap och f\u00c3\u00b6rst\u00c3\u00a5else kring vad interaktionsdesign och anv\u00c3\u00a4ndarcentrerad design \u00c3\u00a4r. Detta inneb\u00c3\u00a4r b\u00c3\u00a5de historisk bakgrund, praktiska och teoretiska \u00c3\u00a4mnen och omr\u00c3\u00a5den som ing\u00c3\u00a5r samt m\u00c3\u00b6jliga arbetsomr\u00c3\u00a5den. Under kursens g\u00c3\u00a5ng g\u00c3\u00a5r vi \u00c3\u00a4ven igenom vilka verktyg och kunskap en interaktionsdesigner beh\u00c3\u00b6ver. Fokus i kursen ligger p\u00c3\u00a5 interaktionsdesignerns teoretiska samt professionella roll b\u00c3\u00a5de inom arbetslivet men \u00c3\u00a4ven inom akademin. Kursen best\u00c3\u00a5r av sex delkurser:\n- Delkurs 1: \u00c3\u0084mnesintroduktion till \u00c3\u00a4mnesomr\u00c3\u00a5det informatik samt utbildningsprogrammet interaktionsdesigner\n- Delkurs 2: Vetenskapsteori. En introduktion till tv\u00c3\u00a4rvetenskaplig forskning och potentiella forskningsomr\u00c3\u00a5den inom IT och design\n- Delkurs 3: Forskning inom interaktionsdesign. En kort \u00c3\u00b6verblick \u00c3\u00b6ver potentiella forskningsomr\u00c3\u00a5den\n- Delkurs 4: Interaktionsdesign som profession. Denna delkurs ger en \u00c3\u00b6verblick \u00c3\u00b6ver vilka olika omr\u00c3\u00a5den och arbetsuppgifter som en interaktionsdesigner kan jobba med\n- Delkurs 5: Anv\u00c3\u00a4ndarcentrerad design: En introduktion till vad anv\u00c3\u00a4ndarcentrerad design \u00c3\u00a4r och hur man jobbar mot detta\n- Delkurs 6: Individuellt arbete. Ett avslutande mindre arbete d\u00c3\u00a4r f\u00c3\u00b6rg\u00c3\u00a5ende delkurser v\u00c3\u00a4vs ihop\n            ",
+                "LatestPostTitle": "Kompletterad information",
+                "LatestPostAuthor": "Morgan Rydbrink",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 23": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/webbteknisk-introduktion\/",
+                "CourseName": "Webbteknisk Introduktion",
+                "CourseCode": "1IK415",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kurs i webbdesign vid Linn\u00c3\u00a9universitetet\nKursen Webbteknisk introduktion \u00c3\u00a4r en kurs som inom ramen f\u00c3\u00b6r programmen \u00e2\u0080\u009dWebbprogrammerare\u00e2\u0080\u009d och \u00e2\u0080\u009dUtvecklare av digitala tj\u00c3\u00a4nster\u00e2\u0080\u009d vid Linn\u00c3\u00a9universitetet i Kalmar och genomf\u00c3\u00b6rs p\u00c3\u00a5 campus s\u00c3\u00a5v\u00c3\u00a4l som distans. Kursen behandlar grundl\u00c3\u00a4ggande HTML\/CSS, SEO (s\u00c3\u00b6kmotoroptimering) och anpassning av webbsidor f\u00c3\u00b6r mobila enheter. Att l\u00c3\u00a4ra sig skapa tillg\u00c3\u00a4ngliga webbgr\u00c3\u00a4nssnitt \u00c3\u00a4r en r\u00c3\u00b6d tr\u00c3\u00a5d genom hela kursen.\nP\u00c3\u00a5 denna webbplats hittar du all information kring kursen. \u00c3\u0084r du student p\u00c3\u00a5 kursen b\u00c3\u00b6r du logga in\u00c2\u00a0f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till gruppindelningar, forum etc.\n\u00c3\u0084r du h\u00c3\u00a4r som bes\u00c3\u00b6kare kan du f\u00c3\u00b6lja med i kursen genom att f\u00c3\u00b6lja materialet p\u00c3\u00a5 denna webbplats. F\u00c3\u00b6rel\u00c3\u00a4sningar och laborationer publiceras i takt med att de genomf\u00c3\u00b6rs p\u00c3\u00a5 campus i Kalmar.\n            ",
+                "LatestPostTitle": "Restredovisningspass",
+                "LatestPostAuthor": "Johan Leitet",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 24": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/natverksprojekt\/",
+                "CourseName": "N\u00c3\u00a4tverksprojekt",
+                "CourseCode": "1DV420",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen N\u00c3\u00a4tverksprojekt (HT14) vid Linn\u00c3\u00a9universitetet\n\n\n\n\nKursen ger f\u00c3\u00a4rdigheter i att kunna oms\u00c3\u00a4tta teori till verkliga projekt under utsatt tid. Kursen ska \u00c3\u00a4ven ge praktiska och teoretiska kunskaper om vanliga roller i ett projekt, samt ge studenten kunskap att hantera den dokumentation som kr\u00c3\u00a4vs i ett projekt. Kursen ger f\u00c3\u00b6rdjupad teoretisk och praktisk kunskap i vissa av de moment som ing\u00c3\u00a5tt i tidigare kurser som ges i programmet IT-\u00c2\u00adtekniker.\n\n\n\n\n            ",
+                "LatestPostTitle": "F\u00c3\u00b6rtydliganden av rapportuppgifter",
+                "LatestPostAuthor": "Mathias Hedenborg",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 25": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/linuxadministration-ii\/",
+                "CourseName": "Linuxadministration II",
+                "CourseCode": "1DV421",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Linuxadministration II (HT14) vid Linn\u00c3\u00a9universitetet\nV\u00c3\u00a4lkommen till Linuxadministration II 1DV421 som ges f\u00c3\u00b6r \u00c3\u00a5r 2 p\u00c3\u00a5 IT-teknikerprogrammet.\n            ",
+                "LatestPostTitle": "Revidering av laboration 3.",
+                "LatestPostAuthor": "Peter S\u00c3\u00b6nnerfors",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 26": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/servervirtualisering-tekniker\/",
+                "CourseName": "Servervirtualisering, tekniker",
+                "CourseCode": "2DV403",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Servervirtualisering, tekniker (HT14) vid Linn\u00c3\u00a9universitetet\nV\u00c3\u00a4lkommna till den h\u00c3\u00a4r kursen, ni hittar all information om kursen via menyn till v\u00c3\u00a4nster.\nJacob Lindehoff, kursansvarig\n            ",
+                "LatestPostTitle": "Inget seminare vecka 42",
+                "LatestPostAuthor": "Jacob Lindehoff",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 27": {
+                "Url": "https:\/\/coursepress.lnu.se\/projekt\/coderdojo\/",
+                "CourseName": "CoderDojo Kalmar",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        V\u00c3\u00a4lkommen till CoderDojo Kalmar\n\n            ",
+                "LatestPostTitle": "Mentorer s\u00c3\u00b6kes",
+                "LatestPostAuthor": "Johan Leitet",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 28": {
+                "Url": "https:\/\/coursepress.lnu.se\/program\/utvecklare-av-digitala-tjanster\/",
+                "CourseName": "Utvecklare av digitala tj\u00c3\u00a4nster 120\/180hp",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Utvecklare av digitala tj\u00c3\u00a4nster\nDetta \u00c3\u00a4r en sajt f\u00c3\u00b6r och av studenter och l\u00c3\u00a4rare vid programmet Utvecklare av digitala tj\u00c3\u00a4nster vid Linn\u00c3\u00a9universitetet i Kalmar.\nN\u00c3\u00a4sta s\u00c3\u00b6kbara utbildningsstart \u00c3\u00a4r HT2015 med sista ans\u00c3\u00b6kningsdag 2015-04-15.\nVill du veta mer?\u00c2\u00a0Kontakta oss\u00c2\u00a0eller titta runt p\u00c3\u00a5 sajten.\n            ",
+                "LatestPostTitle": "Nordic.js",
+                "LatestPostAuthor": "Johan Leitet",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 29": {
+                "Url": "https:\/\/coursepress.lnu.se\/program\/webbprogrammerare\/",
+                "CourseName": "Webbprogrammerare 120hp",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Plugga till webbprogrammerare eller webbutvecklare?\nDetta \u00c3\u00a4r en sajt f\u00c3\u00b6r och av studenter och l\u00c3\u00a4rare vid Webbprogrammerarprogrammet vid Linn\u00c3\u00a9universitetet i Kalmar. Du som \u00c3\u00a4r sugen att plugga till webbutvecklare eller webbprogrammerare kan hitta mycket v\u00c3\u00a4rdefull information h\u00c3\u00a4r.L\u00c3\u00a4s om utbildningen h\u00c3\u00a4r >>\nN\u00c3\u00a4sta s\u00c3\u00b6kbara utbildningsstart \u00c3\u00a4r HT2014 med sista ans\u00c3\u00b6kningsdag 2014-04-15.\nVill du veta mer?\u00c2\u00a0Kontakta oss\u00c2\u00a0eller titta runt p\u00c3\u00a5 sajten.\n            ",
+                "LatestPostTitle": "Nordic.js",
+                "LatestPostAuthor": "Johan Leitet",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 30": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/individuellt-mjukvaruutvecklingsprojekt\/",
+                "CourseName": "Individuellt mjukvaruutvecklingsprojekt",
+                "CourseCode": "1DV430",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Individuellt mjukvaruutvecklingsprojekt (VT13) vid Linn\u00c3\u00a9universitetet\nI denna kurs f\u00c3\u00a5r du arbeta individuellt med att ta fram en mjukvara fr\u00c3\u00a5n id\u00c3\u00a9 till f\u00c3\u00a4rdig applikation. Du kommer att arbeta mycket med programmering, krav, planering och testning. Till din hj\u00c3\u00a4lp har du ett antal kurskamrater som arbetar med liknande id\u00c3\u00a9er eller liknande tekniker samt handledarm\u00c3\u00b6ten varje vecka. Du kommer att arbeta iterativt med en SCRUM-liknande arbetsprocess. Kursen har ett entrepen\u00c3\u00b6riellt fokus och inneh\u00c3\u00a5ller ett antal g\u00c3\u00a4stf\u00c3\u00b6rel\u00c3\u00a4sningar fr\u00c3\u00a5n olika organisationer och n\u00c3\u00a4ringslivet. Kursen avslutas med en gemensam redovisning d\u00c3\u00a4r du f\u00c3\u00a5r visa upp din applikation och ber\u00c3\u00a4tta om dina erfarenheter under utvecklingen.\nS\u00c3\u00a4rskilda beh\u00c3\u00b6righetsgkrav\nDenna kurs st\u00c3\u00a4ller stora krav p\u00c3\u00a5 din f\u00c3\u00b6rm\u00c3\u00a5ga att ta ansvar och l\u00c3\u00b6sa problem p\u00c3\u00a5 egen hand. F\u00c3\u00b6r att vara beh\u00c3\u00b6rig p\u00c3\u00a5 kursen m\u00c3\u00a5ste du d\u00c3\u00a4rf\u00c3\u00b6r ha minst 30hp godk\u00c3\u00a4nda inom \u00c3\u00a4mnena datavetenskap, datateknik, informatik eller motsvarande.\n\u00c3\u0084r du os\u00c3\u00a4ker p\u00c3\u00a5 hur m\u00c3\u00a5nga po\u00c3\u00a4ng du har tagit kan du kolla in Ladok p\u00c3\u00a5 webb p\u00c3\u00a5 Universitetets hemsida.\n            ",
+                "LatestPostTitle": "Kompletteringar och Omexaminationer",
+                "LatestPostAuthor": "Tobias Ohlsson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 31": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/inledande-programmering-med-java\/",
+                "CourseName": "Inledande programmering med Java",
+                "CourseCode": "1DV432",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n                Fakta\r\n            \r\n                \u00c3\u0084mne: DatavetenskapNiv\u00c3\u00a5: Grundniv\u00c3\u00a5H\u00c3\u00b6gskolepo\u00c3\u00a4ng: 7,5Kurskod: 1DV432            \r\n        Inledande programmering med Java\nI denna grundl\u00c3\u00a4ggande kurs l\u00c3\u00a4r du dig att skapa objektorienterade datorprogram med programspr\u00c3\u00a5ket Java. Kursen best\u00c3\u00a5r av teorimoment (3,5p) och praktiska till\u00c3\u00a4mpningar (4p). Allt kursmaterial, f\u00c3\u00b6rutom kurslitteraturen, finner du p\u00c3\u00a5 denna webbplats.\nDu loggar in med ditt studentkonto f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till dokument, etc och du m\u00c3\u00a5ste vara registrerad som kursdeltagare f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till ev. gruppindelningar. (\u00c3\u0084r du en anonym bes\u00c3\u00b6kare har du begr\u00c3\u00a4nsad \u00c3\u00a5tkomst till webbplatsens material.)\n            ",
+                "LatestPostTitle": "Dags f\u00c3\u00b6r kursv\u00c3\u00a4rdering!",
+                "LatestPostAuthor": "Anne Norling",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 32": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/web-management\/",
+                "CourseName": "Web management",
+                "CourseCode": "1IK424",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Web management,1IK424, \u00c2\u00a0vid Linn\u00c3\u00a9universitetet\nKursen Web Management syftar till att ge studenten grundl\u00c3\u00a4ggande kunskap om serverscriptspr\u00c3\u00a5ket PHP samt publiceringssystemet WordPress. M\u00c3\u00a5let med kursen \u00c3\u00a4r att l\u00c3\u00a4ra sig att utifr\u00c3\u00a5n en WordPress-installation producera en dynamisk webbplats.\n            ",
+                "LatestPostTitle": "Restredovisning",
+                "LatestPostAuthor": "John H\u00c3\u00a4ggerud",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 33": {
+                "Url": "https:\/\/coursepress.lnu.se\/program\/it-tekniker\/",
+                "CourseName": "IT-tekniker",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Blivande IT-tekniker?\nDetta \u00c3\u00a4r en sajt f\u00c3\u00b6r och av studenter och l\u00c3\u00a4rare vid IT-teknikerprogrammet vid Linn\u00c3\u00a9universitetet i Kalmar.\nVill du veta mer?\u00c2\u00a0Kontakta oss\u00c2\u00a0eller titta runt p\u00c3\u00a5 sajten.\n            ",
+                "LatestPostTitle": "Nollintag av IT-tekniker HT14",
+                "LatestPostAuthor": "Jacob Lindehoff",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 34": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/tillampad-interaktionsdesign\/",
+                "CourseName": "Till\u00c3\u00a4mpad interaktionsdesign",
+                "CourseCode": "1IK414",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Till\u00c3\u00a4mpad interaktionsdesign (VT14) vid Linn\u00c3\u00a9universitetet\nKursen 1IK414 Till\u00c3\u00a4mpad Interaktionsdesign \u00c3\u00a4r en kurs som ing\u00c3\u00a5r i utbildningsprogrammet Interaktionsdesigner vid Linn\u00c3\u00a9universitetet. Kursen ges under andra \u00c3\u00a5ret f\u00c3\u00b6r studenter vid programmet. Under kursens g\u00c3\u00a5ng genomf\u00c3\u00b6rs ett skarpt projekt mot f\u00c3\u00b6retag inom IT-sektor och produktutveckling. Under kursens g\u00c3\u00a5ng v\u00c3\u00a4vs f\u00c3\u00b6rel\u00c3\u00a4sningar kring anv\u00c3\u00a4ndarcentrerad design och tj\u00c3\u00a4nstedesign ihop med praktiska uppgifter d\u00c3\u00a4r kunskapen fr\u00c3\u00a5n kurslitteratur och f\u00c3\u00b6rel\u00c3\u00a4sningar praktiskt appliceras i de praktiskt projekt som genomf\u00c3\u00b6rs mot f\u00c3\u00b6retag.\nKursen best\u00c3\u00a5r av tre delkurser:\nMetoder f\u00c3\u00b6r interaktionsdesign: I denna delkurs fokuserar vi p\u00c3\u00a5 hur man kan arbeta med anv\u00c3\u00a4ndarcentrerad design vid utveckling av interaktiva system\nTj\u00c3\u00a4nsteutveckling: Denna del best\u00c3\u00a5r av en genomg\u00c3\u00a5ng av begreppet service science samt relaterade ramverk och teorier\nFallstudie: Denna delkurs \u00c3\u00a4r den r\u00c3\u00b6da tr\u00c3\u00a5den i kursen d\u00c3\u00a4r studenterna arbetat med projekt knutna till n\u00c3\u00a4ringslivet. Samtliga moment i de tv\u00c3\u00a5 f\u00c3\u00b6rsta delkurserna relateras till denna projektuppgift.\n",
+                "LatestPostTitle": "Slutbetyg",
+                "LatestPostAuthor": "Thomas Ivarsson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 35": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/objektorienterad-programmering-med-cplusplus\/",
+                "CourseName": "Objektorienterad programmering med C++",
+                "CourseCode": "1DV434",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n                Fakta\r\n            \r\n                \u00c3\u0084mne: DatavetenskapNiv\u00c3\u00a5: Grundniv\u00c3\u00a5H\u00c3\u00b6gskolepo\u00c3\u00a4ng: 7,5Kurskod: 1DV434            \r\n        Objektorienterad programmering med C++\nI denna forts\u00c3\u00a4ttningskurs l\u00c3\u00a4r du dig att skapa objektorienterade datorprogram med programspr\u00c3\u00a5ket C++. Kursen best\u00c3\u00a5r av teorimoment (3,5p) och praktiska till\u00c3\u00a4mpningar (4p). Allt kursmaterial utom kurslitteraturen h\u00c3\u00a4mtar du p\u00c3\u00a5 denna webbplats.\nDu loggar in med ditt studentkonto f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till dokument, etc och du m\u00c3\u00a5ste vara registrerad som kursdeltagare f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till ev. gruppindelningar. (\u00c3\u0084r du en anonym bes\u00c3\u00b6kare har du begr\u00c3\u00a4nsad \u00c3\u00a5tkomst till webbplatsens material.)\n            ",
+                "LatestPostTitle": "Dags f\u00c3\u00b6r kursv\u00c3\u00a4rdering!",
+                "LatestPostAuthor": "Anne Norling",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 36": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/design-och-konceptvisualisering\/",
+                "CourseName": "Design och konceptvisualisering",
+                "CourseCode": "1IK418",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Design och konceptvisualisering (VT13) vid Linn\u00c3\u00a9universitetet\nKursen Design och konceptvisaulisering, 1IK418, \u00c3\u00a4r en kurs som ing\u00c3\u00a5r i utbildningsprogrammet Interaktionsdesigner vid Linn\u00c3\u00a9universitetet. Kursen ges b\u00c3\u00a5de p\u00c3\u00a5 campus och distans under f\u00c3\u00b6rsta \u00c3\u00a5ret och \u00c3\u00a4r obligatorisk f\u00c3\u00b6r samtliga studenter vid programmet. Under kursens g\u00c3\u00a5ng v\u00c3\u00a4vs f\u00c3\u00b6rel\u00c3\u00a4sningar med praktiska uppgifter och diskussionsseminarier och avslutas med ett kortare projektarbete d\u00c3\u00a4r den kunskap som erh\u00c3\u00a5llits under kursens g\u00c3\u00a5ng s\u00c3\u00a4tts p\u00c3\u00a5 prov. Kursen best\u00c3\u00a5r av f\u00c3\u00b6ljande byggstenar:\nF\u00c3\u00b6rel\u00c3\u00a4sningar med tillh\u00c3\u00b6rande laborationer och \u00c3\u00b6vningar kring kommunikation mellan m\u00c3\u00a4nniskor och teknik, utanf\u00c3\u00b6r och p\u00c3\u00a5 sk\u00c3\u00a4rm\nF\u00c3\u00b6rel\u00c3\u00a4sningar med tillh\u00c3\u00b6rande laborationer kring bearbetning och kommunikation genom grafisk framst\u00c3\u00a4llan\nF\u00c3\u00b6rel\u00c3\u00a4sningar med tillh\u00c3\u00b6rande uppgifter kring arbete med workshop- och participatory design\nProjektarbete d\u00c3\u00a4r samtliga ovanst\u00c3\u00a5ende tre delar v\u00c3\u00a4vs samman med fokus p\u00c3\u00a5 att skapa grafiska gr\u00c3\u00a4nssnitt utifr\u00c3\u00a5n hur vi som m\u00c3\u00a4nniskor tar in och tolkar information\n",
+                "LatestPostTitle": "Komplettering av labb 3",
+                "LatestPostAuthor": "Susanne Isaksson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 37": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/projektarbeteigrupp\/",
+                "CourseName": "Projektarbete\u00c2\u00a0i\u00c2\u00a0grupp",
+                "CourseCode": "2DV409",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Projektarbete\u00c2\u00a0i\u00c2\u00a0grupp (VT14) vid Linn\u00c3\u00a9universitetet\nH\u00c3\u00a4r b\u00c3\u00b6r kursansvarig fylla i en beskrivning av kursen. Detta g\u00c3\u00b6rs p\u00c3\u00a5 sidan \u201cStartsida\u201d\n            ",
+                "LatestPostTitle": "Presentationer",
+                "LatestPostAuthor": "Martin Blomberg",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 38": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/datavetenskap-sjalvstandigt-arbete-hogskoleexamen\/",
+                "CourseName": "Datavetenskap, sj\u00c3\u00a4lvst\u00c3\u00a4ndigt arbete (h\u00c3\u00b6gskoleexamen)",
+                "CourseCode": "1DV42E",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Sj\u00c3\u00a4lvst\u00c3\u00a4ndigt arbete f\u00c3\u00b6r Webbprogrammerare\nKursen \u201cDatavetenskap, sj\u00c3\u00a4lvst\u00c3\u00a4ndigt arbete (h\u00c3\u00b6gskoleexamen)\u201d \u00c3\u00a4r avslutningskursen f\u00c3\u00b6r den tv\u00c3\u00a5\u00c3\u00a5riga utbildningen Webbprogrammerare 120hp. Det sj\u00c3\u00a4lvst\u00c3\u00a4ndiga arbetet \u00c3\u00a4r uppdelat i tv\u00c3\u00a5 delar och f\u00c3\u00b6r att bli godk\u00c3\u00a4nd p\u00c3\u00a5 kursen kr\u00c3\u00a4vs det att studenten dels programmerar och skapar n\u00c3\u00a5got praktiskt samt formulerar en vetenskaplig fr\u00c3\u00a5gest\u00c3\u00a4llning och skriver en rapport kring denna.\nKursen genomf\u00c3\u00b6rs p\u00c3\u00a5 helfart i perioden april-juni.\n            ",
+                "LatestPostTitle": "Redovisnings- och examensvecka",
+                "LatestPostAuthor": "Johan Leitet",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 39": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/natverksteknik-ii\/",
+                "CourseName": "N\u00c3\u00a4tverksteknik II",
+                "CourseCode": "1DV418",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        The course Network Technology II\/N\u00c3\u00a4tverksteknik II (VT14) at Linnaeus University\n\n\n\n\nThe course aim is to give the student knowledge in advanced routing\u00c2\u00ad and switching technologies as well as in WAN protocols. After completing this course the student should be able to apply this knowledge and, with a certain degree of independence, be able to design and implement a LAN and WAN environment.\n\n\n\n\n            ",
+                "LatestPostTitle": "WAN \u2013 Practical & Theoretical exam schedule",
+                "LatestPostAuthor": "Huseyin Kayahan",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 40": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/examensarbete-inom-datavetenskap\/",
+                "CourseName": "Examensarbete inom datavetenskap",
+                "CourseCode": "1DV41E",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Examensarbete inom datavetenskap (VT12) vid Linn\u00c3\u00a9universitetet\nH\u00c3\u00a4r b\u00c3\u00b6r kursansvarig fylla i en beskrivning av kursen. Detta g\u00c3\u00b6rs p\u00c3\u00a5 sidan \u201cStartsida\u201d\n            ",
+                "LatestPostTitle": "no information",
+                "LatestPostAuthor": "no information",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 41": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/examensarbete-pa-kandidatniva\/",
+                "CourseName": "Examensarbete p\u00c3\u00a5 kandidatniv\u00c3\u00a5",
+                "CourseCode": "2DV00E",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Examensarbete p\u00c3\u00a5 kandidatniv\u00c3\u00a5 (VT14) vid Linn\u00c3\u00a9universitetet\n            ",
+                "LatestPostTitle": "Tidsschema p\u00c3\u00a5 plats",
+                "LatestPostAuthor": "Mathias Hedenborg",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 42": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/webbramverk\/",
+                "CourseName": "Webbramverk",
+                "CourseCode": "1DV450",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Webbramverk (VT12) vid Linn\u00c3\u00a9universitetet\nM\u00c3\u00a5nga av dagens webbutvecklingsprojekt anv\u00c3\u00a4nder sig av f\u00c3\u00a4rdiga webbramverk f\u00c3\u00b6r att underl\u00c3\u00a4tta och snabba p\u00c3\u00a5 utvecklingen. I denna kurs kommer vi koncentrera oss till tv\u00c3\u00a5 av de mer popul\u00c3\u00a4ra webbramverken som anv\u00c3\u00a4nds idag, Ruby on Rails och AngularJS.\nUnder kursens g\u00c3\u00a5ng f\u00c3\u00a5r du stifta bekantskap med b\u00c3\u00a5da ramverken genom att l\u00c3\u00b6sa praktiska uppgifter. Kursen syftar ocks\u00c3\u00a5 till att ge en mer generell bild av webbramverk och deras egenskaper.\n            ",
+                "LatestPostTitle": "Sista restinsamlingen gjord",
+                "LatestPostAuthor": "John H\u00c3\u00a4ggerud",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 43": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/systemadministration-med-powershell\/",
+                "CourseName": "Systemadministration med PowerShell",
+                "CourseCode": "1DV419",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n                Fakta\r\n            \r\n                \u00c3\u0084mne:\u00c2\u00a0DatavetenskapNiv\u00c3\u00a5:\u00c2\u00a0Grundniv\u00c3\u00a5H\u00c3\u00b6gskolepo\u00c3\u00a4ng:\u00c2\u00a07,5Kurskod:\u00c2\u00a01DV419            \r\n        Kursen Systemadministration med Powershell (VT13) vid Linn\u00c3\u00a9universitetet\nKursen Systemadministration med Powershell \u00c3\u00a4r en programkurs f\u00c3\u00b6r studenter vid programmet IT-tekniker vid Linn\u00c3\u00a9universitetet i Kalmar. Kursen ger en introduktion till skriptprogrammering och strukturen i PowerShell. Kursen inneh\u00c3\u00a5ller moment som syntax, hantering av skriptfiler, cmdlets, hantering av Active Directory, automatisering av uppgifter.\nP\u00c3\u00a5 denna webbplats hittar du all information kring kursen. Du m\u00c3\u00a5ste logga in f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till dokument, inspelade f\u00c3\u00b6rel\u00c3\u00a4sningar, etc, och du m\u00c3\u00a5ste dessutom vara registrerad som kursdeltagare f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till gruppindelningar, diskussionsgrupp och kursens driftsmilj\u00c3\u00b6.\n\u00c3\u0084r du en anonym bes\u00c3\u00b6kare har du bara begr\u00c3\u00a4nsad \u00c3\u00a5tkomst till materialet p\u00c3\u00a5 denna webbplats.\n            ",
+                "LatestPostTitle": "Sista f\u00c3\u00b6rel\u00c3\u00a4sningarna publicerade",
+                "LatestPostAuthor": "Jacob Lindehoff",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 44": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/granssnittsutveckling-anvandarvanlighet-och-tillganglighet\/",
+                "CourseName": "Gr\u00c3\u00a4nssnittsutveckling \u2013 anv\u00c3\u00a4ndarv\u00c3\u00a4nlighet och tillg\u00c3\u00a4nglighet",
+                "CourseCode": "1IK419",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Gr\u00c3\u00a4nssnittsutveckling \u2013 anv\u00c3\u00a4ndarv\u00c3\u00a4nlighet och tillg\u00c3\u00a4nglighet vid Linn\u00c3\u00a9universitetet\nF\u00c3\u00b6r att skapa effektiva, attraktiva och anv\u00c3\u00a4ndbara anv\u00c3\u00a4ndargr\u00c3\u00a4nssnitt g\u00c3\u00a4ller det att f\u00c3\u00a5 flera pusselbitar att falla p\u00c3\u00a5 plats. Gr\u00c3\u00a4nssnittet beh\u00c3\u00b6ver vara anpassat till sin m\u00c3\u00a5lgrupp och det beh\u00c3\u00b6ver vara utformat s\u00c3\u00a5 att det \u00c3\u00a4r l\u00c3\u00a4tt att f\u00c3\u00b6rst\u00c3\u00a5 och l\u00c3\u00a4tt att anv\u00c3\u00a4nda. Dessutom ska gr\u00c3\u00a4nssnittet utf\u00c3\u00b6ra en uppgift som \u00c3\u00a4r meningsfull f\u00c3\u00b6r dess anv\u00c3\u00a4ndare, t ex att informera anv\u00c3\u00a4ndaren p\u00c3\u00a5 ett effektivt och\/eller underh\u00c3\u00a5llande s\u00c3\u00a4tt eller utf\u00c3\u00b6ra n\u00c3\u00a5gon nyttig tj\u00c3\u00a4nst. Sist, men inte minst, b\u00c3\u00b6r det ocks\u00c3\u00a5 vara estetiskt tilltalande.\nI den h\u00c3\u00a4r kursen f\u00c3\u00a5r du l\u00c3\u00a4ra dig att hantera de verktyg man anv\u00c3\u00a4nder f\u00c3\u00b6r att skapa grafisk material. Vidare f\u00c3\u00a5r du l\u00c3\u00a4ra dig att anpassa design, layout och funktion till den t\u00c3\u00a4nkta m\u00c3\u00a5lgruppen och du f\u00c3\u00a5r l\u00c3\u00a4ra dig tekniker f\u00c3\u00b6r hur man g\u00c3\u00b6r f\u00c3\u00b6r att skapa ett anv\u00c3\u00a4ndargr\u00c3\u00a4nssnitt som \u00c3\u00a4r anv\u00c3\u00a4ndbart p\u00c3\u00a5 riktigt, dvs fyller ett syfte f\u00c3\u00b6r sin m\u00c3\u00a5lgrupp och som tar h\u00c3\u00a4nsyn till den m\u00c3\u00a4nskliga anv\u00c3\u00a4ndarens f\u00c3\u00b6ruts\u00c3\u00a4ttningar och begr\u00c3\u00a4nsningar.\nOBS! F\u00c3\u00b6r uppdateringar, diskussioner och meddelanden anv\u00c3\u00a4nds gruppen och kursforumet,\u00c2\u00a0s\u00c3\u00a5 se till att h\u00c3\u00a5lla kolla p\u00c3\u00a5 det som skickas ut d\u00c3\u00a4r genom att bevaka h\u00c3\u00a4ndelser i gruppen (inst\u00c3\u00a4llningar f\u00c3\u00b6r bevakning och notifikationer g\u00c3\u00b6r man genom att klicka p\u00c3\u00a5 Direktbevakning).\n            ",
+                "LatestPostTitle": "Virtuella klassrumen",
+                "LatestPostAuthor": "Peter Adiels",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 45": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/datorhardvaruteknik\/",
+                "CourseName": "Datorh\u00c3\u00a5rdvaruteknik",
+                "CourseCode": "1DV426",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Datorh\u00c3\u00a5rdvaruteknik (VT13) vid Linn\u00c3\u00a9universitetet\n            ",
+                "LatestPostTitle": "Salsbyte \u00c3\u00a4ven idag",
+                "LatestPostAuthor": "Marcus Wilhelmsson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 46": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/webbprojekt-i\/",
+                "CourseName": "Webbprojekt I",
+                "CourseCode": "1DV411",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Webbprojekt I \u00c2\u00a0vid Linn\u00c3\u00a9universitetet\nI denna kurs f\u00c3\u00a5r du arbeta i grupp och utveckla en webbaserad applikation med en riktig kund. Vi str\u00c3\u00a4var efter att erbjuda alla grupper kunder fr\u00c3\u00a5n n\u00c3\u00a4ringslivet och du f\u00c3\u00a5r praktisera dina kunskaper inom programmering, kundkontakt, analys och design, versionshantering, kravhantering, testning, agil-projektledning m.m. under s\u00c3\u00a5 verkliga f\u00c3\u00b6rh\u00c3\u00a5llanden som m\u00c3\u00b6jligt. Varje vecka har du ett handledningsm\u00c3\u00b6te d\u00c3\u00a4r din grupp presenterar veckans resultat, ev. problem och v\u00c3\u00a4gen fram\u00c3\u00a5t. Kursen avslutas med en gemensam redovisning.\nS\u00c3\u00a4rskilda beh\u00c3\u00b6righetskrav\nF\u00c3\u00b6r att vara beh\u00c3\u00b6rig och d\u00c3\u00a4rmed f\u00c3\u00b6r att f\u00c3\u00a5 g\u00c3\u00b6ra webbprojektet m\u00c3\u00a5ste du ha genomg\u00c3\u00a5tt 60hp p\u00c3\u00a5 programmet Webbprogrammering varav minst 30hp i \u00c3\u00a4mnet datavetenskap (kurser med dv i kurskoden). Samt kunskaper motsvarande ASP.NET Webforms, ASP.NET MVC eller Webbutveckling med PHP samt Objektorienterad Analys och Design\nBeh\u00c3\u00b6righetskrav\nASP.NET MVC eller Webbutveckling med PHP\nObjektorienterad Analys och Design med UML, 7,5hp\nASP.NET Webforms, 7,5hp\nInledande programmering med C# (1DV402), 7,5 hp\nDatabasteknik (1DV405), 7,5 hp\nWebbteknik I (1DV403), 7,5 hp\n\u00c3\u0084r du os\u00c3\u00a4ker p\u00c3\u00a5 hur m\u00c3\u00a5nga po\u00c3\u00a4ng du har tagit kan du kolla in Ladok p\u00c3\u00a5 webb p\u00c3\u00a5 Universitetets hemsida.\nFortfarande os\u00c3\u00a4ker? Kontakta Kursansvarig.\n            ",
+                "LatestPostTitle": "Examination",
+                "LatestPostAuthor": "Tobias Ohlsson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 47": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/aspnet-web-forms\/",
+                "CourseName": "ASP.NET Web Forms",
+                "CourseCode": "1DV406",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kurs i att skapa webbapplikationer med ASP.NET Web Forms\nKursen ASP.NET Web Forms \u00c3\u00a4r en programkurs f\u00c3\u00b6r studenter vid programmen \u201cUtvecklare av digitala tj\u00c3\u00a4nster\u201d och \u00e2\u0080\u009dWebbprogrammerare\u00e2\u0080\u009d vid Linn\u00c3\u00a9universitetet i Kalmar och genomf\u00c3\u00b6rs p\u00c3\u00a5 campus s\u00c3\u00a5v\u00c3\u00a4l som distans. Kursen behandlar planering och skapade av webbapplikationer med ASP.NET Web Forms. Webbapplikationernas persistenta data lagras i databaser och hanteras med traditionell ADO.NET.\nP\u00c3\u00a5 denna webbplats hittar du all information kring kursen. \u00c3\u0084r du kursdeltagare b\u00c3\u00b6r du logga in f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till gruppindelningar, forum, etc. n\u00c3\u00a4r dessa tj\u00c3\u00a4nster finns att tillg\u00c3\u00a5 i samband med kursstart.\n\u00c3\u0084r du h\u00c3\u00a4r som bes\u00c3\u00b6kare kan du f\u00c3\u00b6lja med i kursen genom att f\u00c3\u00b6lja materialet p\u00c3\u00a5 denna webbplats. F\u00c3\u00b6rel\u00c3\u00a4sningar publiceras i takt med att de genomf\u00c3\u00b6rs p\u00c3\u00a5 campus i Kalmar.\n            ",
+                "LatestPostTitle": "Resttillf\u00c3\u00a4lle f\u00c3\u00b6r stegtest",
+                "LatestPostAuthor": "Mats Loock",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 48": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/natverkssakerhet\/",
+                "CourseName": "N\u00c3\u00a4tverkss\u00c3\u00a4kerhet",
+                "CourseCode": "1DV425",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen N\u00c3\u00a4tverkss\u00c3\u00a4kerhet (VT13) vid Linn\u00c3\u00a9universitetet\nKursen N\u00c3\u00a4tverkss\u00c3\u00a4kerhet 1DV425 \u00c3\u00a4r en kurs som ing\u00c3\u00a5r i utbildningsprogrammet IT-tekniker vid Linn\u00c3\u00a9universitetet.\n            ",
+                "LatestPostTitle": "Tentamens\u00c3\u00a5terl\u00c3\u00a4mning",
+                "LatestPostAuthor": "Marcus Wilhelmsson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 49": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/linuxadministration-i\/",
+                "CourseName": "Linuxadministration I",
+                "CourseCode": "1DV417",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Linuxadministration I (VT13) vid Linn\u00c3\u00a9universitetet\nDetta \u00c3\u00a4r webbplatsen f\u00c3\u00b6r kursen Linuxadministration I 1DV417.\n            ",
+                "LatestPostTitle": "Tentamens\u00c3\u00a5terl\u00c3\u00a4mning",
+                "LatestPostAuthor": "Marcus Wilhelmsson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 50": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/shaderprogrammering\/",
+                "CourseName": "Shaderprogrammering",
+                "CourseCode": "1DV438",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Shaderprogrammering (VT13) vid Linn\u00c3\u00a9universitetet\nKursen inneh\u00c3\u00a5ller teori och praktiska till\u00c3\u00a4mpningar av linj\u00c3\u00a4r algebra, shaderprogrammering och 3D-grafik i realtid. I kursen finns det 6 stycken laborationer samt en skriftlig tentamen som ska genomf\u00c3\u00b6ras.\n            ",
+                "LatestPostTitle": "Omtentamen",
+                "LatestPostAuthor": "Martin Blomberg",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 51": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/tillampad-kvantmekanik\/",
+                "CourseName": "Till\u00c3\u00a4mpad kvantmekanik",
+                "CourseCode": "2FY808",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        The introductory meeting for this class is on Monday March 24, at 15:15. It will be sent live via Adobe Connect on connect.sunet.se\/lnu-2fy808\nWe have working setups for the following experiments:\nElectron Spin Resonance\nZeeman effect\nOne- and two-electron atomic spectra\nX-ray fluorescence\nRutherford scattering and alpha spectroscopy\nNeutron activation\nScanning Tunneling Microscopy\nThis is a diverse collection of subjects and equipment. If there is some unity behind all this, the common denominator would be that this is about spectroscopy, and the response of a system to excitation. From this we can learn something about the internal structure of atomic and subatomic particles.\nSpectroscopy is not limited to quantum mechanics. We are doing spectroscopy continually with our ears. The cochlea is a Fourier analyzer, its output is a spectrogram that the brain uses to characterize the source of the sound. As an introductory lab, we will study the acoustic spectra of vibrating plates.\nThe main theoretical content that I want students to master in this course is the concept of spin and the coupling of angular momenta in quantum mechanics. Understanding of this theme is a prerequisite for more advanced courses in quantum mechanics and in magnetism.\nThere will be no final theoretical exam. Examination in this course is done by written assignments, lab reports, oral presentations, and seminars. There are also no fixed study assignments, nor lists of homework exercises in textbooks. I want this to be a curiosity-driven learning experience. There will be quite a lot of freedom, also in the choice of subjects to write about, and possibly in the experiments to be performed. The schedule is flexible, and I will try to accommodate distance students as much as possible. But experience has taught me that it will be necessary to have deadlines.\nOne new thing that I want to explore and develop in this course is using the sound input of ordinary computers for analyzing spectra of gamma-ray detectors. We bought some equipment for that (gammaspectacular.com), but it is up to the participants in this course to evaluate its performance. Other suggestions are to study quantized conduction in gold contacts, or quantum optics by photon counting, or using the sensor of a digital camera for detecting alpha particles.\nThis year I want people to do work on building a remotely controlled lab experiment for home exercises in the first-year course in atomic and nuclear physics. I have made a prototype setup for beta spectroscopy. We also need setups for measuring gamma counts as function of distance and\/or the thickness of shielding. Or decay as a function of time. We could do something with alpha spectroscopy in air. This will involve tinkering with hardware, programming Arduinos, making pedagogical web pages that explain statistics and all that.\nAlso something new: we will get on loan the ethernet-controlled gammaspectrometer Osprey. If all goes as I expect, students will be able to use the program Prospect from home to take and analyze data. We will explore this thing, and our experiences will decide on whether we will buy this instrument. \nI synchronized this site with Ladok, but not all students seem to be enrolled.\n            ",
+                "LatestPostTitle": "no information",
+                "LatestPostAuthor": "no information",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 52": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/3d-grafik\/",
+                "CourseName": "3D-grafik",
+                "CourseCode": "2DV303",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen 3D-grafik (VT13) vid Linn\u00e9universitetet\nCourse in 3D grphics with 3ds max and java-OpenGL\n            ",
+                "LatestPostTitle": "Examination of OpenGL Assignments",
+                "LatestPostAuthor": "Martin Blomberg",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 53": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/metoder-for-interaktionsdesign-ii\/",
+                "CourseName": "Metoder fo\u00cc\u0088r interaktionsdesign II",
+                "CourseCode": "1IK433",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Metoder f\u00c3\u00b6r interaktionsdesign II (VT13) vid Linn\u00c3\u00a9universitetet\nKursen Metoder f\u00c3\u00b6r Interaktionsdesign II, 1IK433, \u00c3\u00a4r en obligatorisk programkurs vid utbildningsprogrammet Interaktionsdesigner. Kursen ges endast f\u00c3\u00b6r programstudenter och ges b\u00c3\u00a5de campus och distans. Under kursens g\u00c3\u00a5ng v\u00c3\u00a4vs f\u00c3\u00b6rel\u00c3\u00a4sningar kring designemtoder och processer och dess koppling till anv\u00c3\u00a4ndarcenterad design ihop med praktiska och teoretiska uppgifter och laborationer. Kursen best\u00c3\u00a5r av tre delkurser:\nDesingmetoder och processer: F\u00c3\u00b6rel\u00c3\u00a4sningar och uppgifter kring olika typer av designmetoder och processer med fokus p\u00c3\u00a5 produktdesign. Fr\u00c3\u00a5n id\u00c3\u00a9 till f\u00c3\u00a4rdigt koncept.\nAnv\u00c3\u00a4ndarcentrerad design: Denna delkurs \u00c3\u00a4r mer teoretiskt inriktad och fokuserar p\u00c3\u00a5 grundl\u00c3\u00a4ggande syns\u00c3\u00a4tt i designprocessen. Ut\u00c3\u00b6ver detta l\u00c3\u00a4ggs \u00c3\u00a4ven fokus p\u00c3\u00a5 att utveckla en f\u00c3\u00b6rm\u00c3\u00a5ga att kritiskt granska sitt egna och andras produkter och processer.\nIndividuellt projektarbetet: Kursen avslutas med en projektuppgift d\u00c3\u00a4r kursens \u00c3\u00b6vriga inneh\u00c3\u00a5ll v\u00c3\u00a4vs samman i en enhetlig uppgift. M\u00c3\u00a5let \u00c3\u00a4r att knyta samman teori och praktik samt att ge studenten m\u00c3\u00b6jlighet att visa praktiskt och teoretiskt f\u00c3\u00b6rm\u00c3\u00a5ga.\n",
+                "LatestPostTitle": "Redovisningstider",
+                "LatestPostAuthor": "Johan Malmquist",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 54": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/windowsadministration-ii\/",
+                "CourseName": "Windowsadministration II",
+                "CourseCode": "1DV424",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n                Fakta\r\n            \r\n                \u00c3\u0084mne:\u00c2\u00a0DatavetenskapNiv\u00c3\u00a5:\u00c2\u00a0Grundniv\u00c3\u00a5H\u00c3\u00b6gskolepo\u00c3\u00a4ng:\u00c2\u00a07,5Kurskod:\u00c2\u00a01DV424            \r\n        Kursen Windowsadministration II (VT14) vid Linn\u00c3\u00a9universitetet\nKursen Windowsadministration II \u00c3\u00a4r en programkurs f\u00c3\u00b6r studenter vid programmet IT-tekniker vid Linn\u00c3\u00a9universitetet i Kalmar. Kursen behandlar installation och administration av ett flertal av de mer avancerade tj\u00c3\u00a4nsterna i Windows serveroperativsystem. Vidare behandlar kursen hur man identifiera och \u00c3\u00a5tg\u00c3\u00a4rdar s\u00c3\u00a4kerhetsproblem i en Windows servermilj\u00c3\u00b6.\nP\u00c3\u00a5 denna webbplats hittar du all information kring kursen. Du m\u00c3\u00a5ste logga in f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till dokument, inspelade f\u00c3\u00b6rel\u00c3\u00a4sningar, etc, och du m\u00c3\u00a5ste dessutom vara registrerad som kursdeltagare f\u00c3\u00b6r att f\u00c3\u00a5 tillg\u00c3\u00a5ng till gruppindelningar, diskussionsgrupp och kursens driftsmilj\u00c3\u00b6.\n\u00c3\u0084r du en anonym bes\u00c3\u00b6kare har du bara begr\u00c3\u00a4nsad \u00c3\u00a5tkomst till materialet p\u00c3\u00a5 denna webbplats.\n            ",
+                "LatestPostTitle": "Projekthandledning",
+                "LatestPostAuthor": "Jacob Lindehoff",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 55": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/metoder-for-interaktionsdesign-i\/",
+                "CourseName": "Metoder f\u00c3\u00b6r interaktionsdesign I",
+                "CourseCode": "1IK422",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Metoder f\u00c3\u00b6r interaktionsdesign I (VT13) vid Linn\u00c3\u00a9universitetet\nKursen Metoder f\u00c3\u00b6r Interaktionsdesign, 1IK422, \u00c3\u00a4r en kurs som ing\u00c3\u00a5r i utbildningsprogrammet interaktionsdesigner, 180hp, vid Linn\u00c3\u00a9universitetet. Kursen ges p\u00c3\u00a5 campus samt distans och \u00c3\u00a4r en obligatorisk kurs f\u00c3\u00b6r samtliga studenter som l\u00c3\u00a4ser programmet. Under kursens g\u00c3\u00a5ng v\u00c3\u00a4vs f\u00c3\u00b6rel\u00c3\u00a4sningar kring projektledning, prototyping och anv\u00c3\u00a4ndbarhetsutv\u00c3\u00a4rdering ihop med praktiska uppgifter och seminarier med fokus p\u00c3\u00a5 metoder som gagnas i yrkesrollen som interaktionsdesigner. Kursen best\u00c3\u00a5r av f\u00c3\u00b6ljande fyra moment:\nF\u00c3\u00b6rel\u00c3\u00a4sningar med tillh\u00c3\u00b6rande uppgifter kring projektledning i stora drag och SCRUM som specifik projektledningsmetodik. I momentet l\u00c3\u00a4r sig student vad projektledning \u00c3\u00a4r, hur man arbetar i team, f\u00c3\u00b6r tidsplaner och dokumenterar resultat\nF\u00c3\u00b6rel\u00c3\u00a4sningar med tillh\u00c3\u00b6rande uppgifter kring prototyping, fr\u00c3\u00a5n l\u00c3\u00a5g till h\u00c3\u00b6g precision. I detta moment l\u00c3\u00a4r sig studenten att g\u00c3\u00a5 fr\u00c3\u00a5n enkla skisser till mer detaljerade prototyper\nF\u00c3\u00b6rel\u00c3\u00a4sningar med tillh\u00c3\u00b6rande uppgifter kring anv\u00c3\u00a4ndbarhetsutv\u00c3\u00a4rdering. I detta moment ing\u00c3\u00a5r heuristiska utv\u00c3\u00a4rderingar, anv\u00c3\u00a4ndartestning samt koppling mellan designprinciper och gr\u00c3\u00a4nssnitt i det vardagliga arbetet\nProjektuppgift: Kursen avslutas med en projektuppgift d\u00c3\u00a4r ovanst\u00c3\u00a5ende tre moment v\u00c3\u00a4vs in och s\u00c3\u00a4tts p\u00c3\u00a5 prov. Projektuppgiften \u00c3\u00a4r riktad mot design av digitala gr\u00c3\u00a4nssnitt och genomf\u00c3\u00b6rs i mindre grupper\n",
+                "LatestPostTitle": "Inspelning projektintroduktion",
+                "LatestPostAuthor": "Morgan Rydbrink",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 56": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/anvanda-komponenter-och-apier\/",
+                "CourseName": "Anv\u00c3\u00a4nda komponenter och APIer",
+                "CourseCode": "1DV436",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Anv\u00c3\u00a4nda komponenter och APIer (HT12) vid Linn\u00c3\u00a9universitetet\n            ",
+                "LatestPostTitle": "F\u00c3\u00b6rb\u00c3\u00a4ttrad json kod",
+                "LatestPostAuthor": "Martin Blomberg",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 57": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/grundlaggande-operativsystem\/",
+                "CourseName": "Grundl\u00c3\u00a4ggande operativsystem",
+                "CourseCode": "1DV415",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Grundl\u00c3\u00a4ggande operativsystem (HT13) vid Linn\u00c3\u00a9universitetet\n\nEfter kursen ska studenten kunna redog\u00c3\u00b6ra f\u00c3\u00b6r:\nVilka delar ett modernt operativsystem delas in i och deras respektive uppgifter\nResurshantering i ett operativsystem\nHur ett operativsystem anv\u00c3\u00a4nder h\u00c3\u00a5rdvara\n\n            ",
+                "LatestPostTitle": "Projekten ute samt alla tentamensfr\u00c3\u00a5gor",
+                "LatestPostAuthor": "Marcus Wilhelmsson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 58": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/introduktion-till-informationsteknik\/",
+                "CourseName": "Introduktion till informationsteknik",
+                "CourseCode": "1IK426",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Introduktion till informationsteknik (HT13) vid Linn\u00c3\u00a9universitetet\nKursens syfte \u00c3\u00a4r att ge studenten en orientering i vad informationsteknik \u00c3\u00a4r, hur den fungerar och kan anv\u00c3\u00a4ndas samt vad anv\u00c3\u00a4ndandet av den kan inneb\u00c3\u00a4ra f\u00c3\u00b6r individer, grupper och samh\u00c3\u00a4llen.\n            ",
+                "LatestPostTitle": "Komplettering\/Omexamination",
+                "LatestPostAuthor": "Patrik Brandt",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 59": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/vetenskapsmetod-och-teori\/",
+                "CourseName": "Vetenskapsmetod och teori",
+                "CourseCode": "4IK024",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        V\u00c3\u00a4lkommen till kursen Vetenskapsmetod och teori (HT13) vid Linn\u00c3\u00a9universitetet\nI denna kurs ska du till\u00c3\u00a4gna dig grundl\u00c3\u00a4ggande kunskaper om vetenskapsteori med speciell fokus p\u00c3\u00a5 metoder inom \u00c3\u00a4mnesomr\u00c3\u00a5det datavetenskap.\nNyttan med denna kurs\nAvsikten med denna kurs \u00c3\u00a4r att f\u00c3\u00b6rbereda dig f\u00c3\u00b6r ditt kommande uppsatsarbete och forskningsprojekt. Det du l\u00c3\u00a4r dig kan dessutom vara anv\u00c3\u00a4ndbart i alla slags unders\u00c3\u00b6kningar du kommer att utf\u00c3\u00b6ra inom din profession. \n            ",
+                "LatestPostTitle": "Is mathematics more art than science?",
+                "LatestPostAuthor": "Patrik Brandt",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 60": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/windowsadministration-i\/",
+                "CourseName": "Windowsadministration I",
+                "CourseCode": "1DV416",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Windowsadministration I (HT13) vid Linn\u00c3\u00a9universitetet\n            ",
+                "LatestPostTitle": "Gamla tentamen",
+                "LatestPostAuthor": "Jacob Lindehoff",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 61": {
+                "Url": "https:\/\/coursepress.lnu.se\/subject\/informatics\/",
+                "CourseName": "Informatik",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Informatikfwelpfowe\u00c3\u00a5pofwep\u00c3\u00a5ofwe\u00c3\u00a5 olfwe\u00c3\u00a5lofr\n            ",
+                "LatestPostTitle": "no information",
+                "LatestPostAuthor": "no information",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 62": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/natverksteknik-i\/",
+                "CourseName": "N\u00c3\u00a4tverksteknik I",
+                "CourseCode": "1DV414",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        V\u00c3\u00a4lkommen till kurshemsidan f\u00c3\u00b6r N\u00c3\u00a4tverksteknik I!\nKursen ges i samarbete med Cisco Networking Academy Program. Kursen syftar till att ge studenten kunskaper om aktuella koncept inom LAN- och WAN-milj\u00c3\u00b6er, med m\u00c3\u00a5let att sj\u00c3\u00a4lvst\u00c3\u00a4ndigt kunna bygga upp grundl\u00c3\u00a4ggande n\u00c3\u00a4tverk. Kursen \u00c3\u00a4r baserad p\u00c3\u00a5 CCNA Exploration och behandlar delarna Network fundamentals och Routing protocols and concepts.\n\n            ",
+                "LatestPostTitle": "Extra laborationstillf\u00c3\u00a4lle",
+                "LatestPostAuthor": "Marcus Wilhelmsson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 63": {
+                "Url": "https:\/\/coursepress.lnu.se\/johan-leitet\/",
+                "CourseName": "Johan Leitet",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        \nDetta \u00c3\u00a4r webbplatsen f\u00c3\u00b6r mig, Johan Leitet, som \u00c3\u00a4r universitetsadjunkt i datavetenskap vid institutionen f\u00c3\u00b6r Datavetenskap vid Linn\u00c3\u00a9universitetet.\nJag \u00c3\u00a4r programansvarig f\u00c3\u00b6r\u00c2\u00a0webbprogrammerarprogrammet\u00c2\u00a0och undervisar fr\u00c3\u00a4mst inom klientsidetekniker som HTML\/CSS och JavaScript.\n            ",
+                "LatestPostTitle": "N\u00c3\u00a4tbaserat l\u00c3\u00a4rande i h\u00c3\u00b6gre utbildning",
+                "LatestPostAuthor": "Johan Leitet",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 64": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/computer-graphics\/",
+                "CourseName": "Computer Graphics",
+                "CourseCode": "1DV300",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Computer Graphics (HT13) at Linnaeus University\n            ",
+                "LatestPostTitle": "Presentation times for your last assignments.",
+                "LatestPostAuthor": "Martin Blomberg",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 65": {
+                "Url": "https:\/\/coursepress.lnu.se\/daniel-toll\/",
+                "CourseName": "Daniel Toll",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n                    ",
+                "LatestPostTitle": "Talk",
+                "LatestPostAuthor": "Daniel Toll",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 66": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/visualisering-i-3d\/",
+                "CourseName": "Visualisering i 3D",
+                "CourseCode": "1IK407",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Visualisering i 3D (HT13) vid Linn\u00c3\u00a9universitetet\nGrundl\u00c3\u00a4ggande kurs i 3D visualisering\/modellering\ngrunder i material\/shaders\/teesturer\ngrunder i 3d modellering\n            ",
+                "LatestPostTitle": "Inte uppdaterad sida",
+                "LatestPostAuthor": "Peter Adiels",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 67": {
+                "Url": "https:\/\/coursepress.lnu.se\/projekt\/kcoer\/",
+                "CourseName": "Kompetenscentrum f\u00c3\u00b6r \u00c3\u00b6ppna l\u00c3\u00a4rresurser",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        H\u00c3\u00a4r har vi en wikisida d\u00c3\u00a4r vi kan samla diskussioner och resurser ang\u00c3\u00a5ende detta \u201cprojekt\u201d. Wiki inneb\u00c3\u00a4r att vem som helst kan in och skriva och uppdatera sidan efter behov. \nF\u00c3\u00b6r tillf\u00c3\u00a4llet finns tv\u00c3\u00a5 delar:\n\nhttps:\/\/coursepress.lnu.se\/projekt\/kcoer\/wiki\/wiki\/\nH\u00c3\u00a4r samlar vi mer \u00c3\u00b6vgripande fr\u00c3\u00a5gor, m\u00c3\u00b6tesschema o.s.v.\n\n\nhttps:\/\/coursepress.lnu.se\/projekt\/kcoer\/wiki\/resurser\/\nH\u00c3\u00a4r samlar vi resurser\n            ",
+                "LatestPostTitle": "MOOC European Stakeholders Summit",
+                "LatestPostAuthor": "Martin \u00c3\u0096stlund",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 68": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/computer-networks-an-introduction\/",
+                "CourseName": "Computer Networks an introduction",
+                "CourseCode": "1DV201",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        This is the CoursePress resource for course 1DV201 \u201cComputer Networks \u2013 an introduction\u201d (Spring term 2013).\nThe content of course includes:\nlectures\ntheoretical assignments (also known as \u201chomework\u201d)\npractical assignments (also known as \u201clabs\u201d or simply \u201cassignments\u201d)\nfinal exam\n",
+                "LatestPostTitle": "Summer retake for assignments",
+                "LatestPostAuthor": "Kostiantyn Kucher",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 69": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/examensarbete-inom-informatik-interaktionsdesign\/",
+                "CourseName": "Examensarbete inom informatik, interaktionsdesign",
+                "CourseCode": "2IK50E",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Examensarbete inom informatik, interaktionsdesign (VT13) vid Linn\u00c3\u00a9universitetet\nKursen Examensarbete inom informatik, interaktionsdesign, \u00c3\u00a4r sista kursen som ges inom utbildningsprogrammet interaktionsdesigner vid Linn\u00c3\u00a9universitetet. Kursen g\u00c3\u00a5r under utbildningens sista tio veckor och genomf\u00c3\u00b6rs p\u00c3\u00a5 helfart. Under dessa tio veckor genomf\u00c3\u00b6r studenten enskild eller i grupp sitt examensarbete i samr\u00c3\u00a5d med sin tilldelade handledare. M\u00c3\u00a5let med kursen \u00c3\u00a4r att studenten skall kunna:\nFormulera relevanta forskningsfr\u00c3\u00a5gor utifr\u00c3\u00a5n praktiska problem\nVisa p\u00c3\u00a5 att hon\/han kan genomf\u00c3\u00b6ra god litteraturs\u00c3\u00b6kning utifr\u00c3\u00a5n aktuell forskning och operationalisera denna i sitt arbete\nGenomf\u00c3\u00b6ra och ha god f\u00c3\u00b6rst\u00c3\u00a5else f\u00c3\u00b6r empiriska studier\nPresentera sitt arbete i en skriftlig rapport samt muntligen framst\u00c3\u00a4lla detta\nGenomf\u00c3\u00b6ra en kritisk bed\u00c3\u00b6mning av sitt eget och andras arbeten utifr\u00c3\u00a5n vetenskapliga, samh\u00c3\u00a4lleliga och etiska aspekter\nVanliga aktiviteter under kursens g\u00c3\u00a5ng \u00c3\u00a4r:\nFramtagande av forskningsomr\u00c3\u00a5de samt tillh\u00c3\u00b6rande forskningsproblem\nLitteraturs\u00c3\u00b6kning och bearbetning av denna\nDatainsamling, analys och utv\u00c3\u00a4rdering\nRapportskrivning\nMuntlig presentation och redog\u00c3\u00b6relse\nMuntlig opponering\n\u00a0\n            ",
+                "LatestPostTitle": "Resttillf\u00c3\u00a4lle presentation examensarbete",
+                "LatestPostAuthor": "Morgan Rydbrink",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 70": {
+                "Url": "https:\/\/coursepress.lnu.se\/projekt\/etthundra-procent-webb\/",
+                "CourseName": "Etthundra procent webb",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n                    ",
+                "LatestPostTitle": "no information",
+                "LatestPostAuthor": "no information",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 71": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/datornat-administration\/",
+                "CourseName": "Computer Networks administration",
+                "CourseCode": "1DV202",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        The course Computer networks \u2013 administration (VT13) at Linnaeus University\nWelcome\n            ",
+                "LatestPostTitle": "Friday\u2019s seminar",
+                "LatestPostAuthor": "Marcus Wilhelmsson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 72": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/examensarbete-inom-datavetenskap-2\/",
+                "CourseName": "Examensarbete inom datavetenskap",
+                "CourseCode": "2DV40E",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Examensarbete inom datavetenskap (VT13) vid Linn\u00c3\u00a9universitetet\nH\u00c3\u00a4r b\u00c3\u00b6r kursansvarig fylla i en beskrivning av kursen. Detta g\u00c3\u00b6rs p\u00c3\u00a5 sidan \u201cStartsida\u201d\n            ",
+                "LatestPostTitle": "no information",
+                "LatestPostAuthor": "no information",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 73": {
+                "Url": "https:\/\/coursepress.lnu.se\/info\/",
+                "CourseName": "Information",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n                                                                    ",
+                "LatestPostTitle": "Startsida",
+                "LatestPostAuthor": "no information",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 74": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/projektarbete-med-vetenskapsteori\/",
+                "CourseName": "Projektarbete med vetenskapsteori",
+                "CourseCode": "2IK400",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Projektarbete med vetenskapsteori (VT13) vid Linn\u00c3\u00a9universitetet\nKursen Projektarbete med vetenskapsteori 2IK400 \u00c3\u00a4r en kurs som ing\u00c3\u00a5r i utbildningsprogrammet Interaktionsdesign 180 hp vid Linn\u00c3\u00a9universitetet. Kursen ges b\u00c3\u00a5de p\u00c3\u00a5 campus samt distans och \u00c3\u00a4r en obligatorisk kurs f\u00c3\u00b6r samtliga tredje\u00c3\u00a5rsstudenter vid programmet. Kursen best\u00c3\u00a5r av tv\u00c3\u00a5 delar, vetenskapsteori samt en skarp fallstudie mot utvalda f\u00c3\u00b6retag. M\u00c3\u00a5let med kursen \u00c3\u00a4r dels att studenterna skall f\u00c3\u00a5 praktiskt applicera de kunskaper som de f\u00c3\u00a5tt hittills under programmets g\u00c3\u00a5ng, men \u00c3\u00a4ven att f\u00c3\u00b6rbereda dem inf\u00c3\u00b6r de kommande examensarbetet. Slutresultatet av kursen \u00c3\u00a4r ett praktiskt arbete samt motsvarande en uppsats p\u00c3\u00a5 kandidatniv\u00c3\u00a5. Efter kursens slut skall studenten dels f\u00c3\u00a5tt praktisera sina f\u00c3\u00a4rdigheter samt vara p\u00c3\u00a5 det klara med vad som kr\u00c3\u00a4vs inf\u00c3\u00b6r genomf\u00c3\u00b6randet av examensarbetet. Kursen genomf\u00c3\u00b6rs i stort i mindre grupper \u00c3\u00a4ven om individuella delar ing\u00c3\u00a5r.\nKursen best\u00c3\u00a5r av tv\u00c3\u00a5 delar:\nVetenskapsteori: I denna del ing\u00c3\u00a5r f\u00c3\u00b6rel\u00c3\u00a4sningar med tillh\u00c3\u00b6rande uppgifter kring vetenskapsteori, vetenskapsmetodik, att skriva forskningsrapport, litteraturs\u00c3\u00b6kning samt presentation och opponering\nFallstudie: Under hela kursens g\u00c3\u00a5ng genomf\u00c3\u00b6rs en skarp fallstudie mot f\u00c3\u00b6retag. De teoretiska delar som ing\u00c3\u00a5r i vetenskapsteorin s\u00c3\u00a4tts h\u00c3\u00a4r p\u00c3\u00a5 prov d\u00c3\u00a4r stor vikt l\u00c3\u00a4ggs vid teorif\u00c3\u00b6rankring samt kritiskt t\u00c3\u00a4nkande kring de f\u00c3\u00a4rdigheter och metoder som anv\u00c3\u00a4nds.\n",
+                "LatestPostTitle": "Presentationsschema",
+                "LatestPostAuthor": "Morgan Rydbrink",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 75": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/organisation-ledarskap-och-kulturella-perspektiv\/",
+                "CourseName": "Organisation, ledarskap och kulturella perspektiv",
+                "CourseCode": "1IL240",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Organisation, ledarskap och kulturella perspektiv (VT13) vid Linn\u00c3\u00a9universitetet\nH\u00c3\u00a4r b\u00c3\u00b6r kursansvarig fylla i en beskrivning av kursen. Detta g\u00c3\u00b6rs p\u00c3\u00a5 sidan \u201cStartsida\u201d\n            ",
+                "LatestPostTitle": "no information",
+                "LatestPostAuthor": "no information",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 76": {
+                "Url": "https:\/\/coursepress.lnu.se\/peter-adiels\/",
+                "CourseName": "Peter Adiels",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "no information",
+                "LatestPostTitle": "no information",
+                "LatestPostAuthor": "no information",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 77": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/effektiviserad-drift-av-datorsystem\/",
+                "CourseName": "Effektiviserad drift av datorsystem",
+                "CourseCode": "1DV427",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Effektiviserad drift av datorsystem (HT12) vid Linn\u00c3\u00a9universitetet\n\n\n\n\nKursen syftar till att ge studenten f\u00c3\u00b6rst\u00c3\u00a5else f\u00c3\u00b6r administration och underh\u00c3\u00a5ll av n\u00c3\u00a4tverk och servrar med fokus p\u00c3\u00a5 drift, statuskontroll och styrning av n\u00c3\u00a4tverksenheter och servrar. Kursen innefattar \u00c3\u00a4ven installation och konfigurering av tillh\u00c3\u00b6rande \u00c3\u00b6vervakningsverktyg.\nGenom dessa kunskaper f\u00c3\u00b6rv\u00c3\u00a4ntas studenten, efter genomg\u00c3\u00a5ngen kurs, sj\u00c3\u00a4vst\u00c3\u00a4ndigt kunna redog\u00c3\u00b6ra f\u00c3\u00b6r vilka faktorer som p\u00c3\u00a5verkar vid administration och \u00c3\u00b6vervakning av dator\/n\u00c3\u00a4tverkssystem, dess s\u00c3\u00a4kerhetsaspekter samt analysera milj\u00c3\u00b6er f\u00c3\u00b6r att effektivisera och s\u00c3\u00a4kerst\u00c3\u00a4lla driften av datorsystem.\n\n\n\n\n            ",
+                "LatestPostTitle": "Tentamens\u00c3\u00a5terl\u00c3\u00a4mning",
+                "LatestPostAuthor": "Marcus Wilhelmsson",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 78": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/webbutveckling-med-php-ii\/",
+                "CourseName": "Webbutveckling med PHP II",
+                "CourseCode": "2DV410",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Webbutveckling med PHP II (HT12) vid Linn\u00c3\u00a9universitetet\nKursen Weubbutveckling med PHP 2 tar vid d\u00c3\u00a4r kursen 1DV408 slutar men flyttar perspektivet fr\u00c3\u00a5n den enskilde utvecklarens kod till det st\u00c3\u00b6rre sammanhanget. Till PHP finns m\u00c3\u00a5nga ramverk, publiceringsverktyg, komponenter och api\u00c3\u00a9r, kursen syftar till att ge studenterna en bra grund f\u00c3\u00b6r utveckling, underh\u00c3\u00a5ll och anv\u00c3\u00a4ndning av dessa.\n            ",
+                "LatestPostTitle": "Redovisningar",
+                "LatestPostAuthor": "Daniel Toll",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 79": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/natverkssakerhet-fordjupning\/",
+                "CourseName": "N\u00c3\u00a4tverkss\u00c3\u00a4kerhet f\u00c3\u00b6rdjupning",
+                "CourseCode": "2DV404",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        2DV404 N\u00c3\u00a4tverkss\u00c3\u00a4kerhet f\u00c3\u00b6rdjupning (HT12) vid Linn\u00c3\u00a9universitetet\nV\u00c3\u00a4lkommen till kurshemsidan!\nKursen kommer att p\u00c3\u00a5g\u00c3\u00a5 under\u00c2\u00a0perioden 2012-11-12 \u00e2\u0080\u0093 2013-01-18.\n            ",
+                "LatestPostTitle": "Seminarie 3",
+                "LatestPostAuthor": "Patrik Brandt",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 80": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/aktuella-problem-inom-datavetenskap\/",
+                "CourseName": "Aktuella problem inom datavetenskap",
+                "CourseCode": "2DV005",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        JavaFX (Current Topics in Computer Science)\nThis is the main page for the course in JavaFX.\n            ",
+                "LatestPostTitle": "Deadline",
+                "LatestPostAuthor": "Tobias Andersson-Gidlund",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 81": {
+                "Url": "https:\/\/coursepress.lnu.se\/kurs\/moderna-applikationsmiljoer\/",
+                "CourseName": "Moderna applikationsmilj\u00c3\u00b6er",
+                "CourseCode": "2DV400",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        Kursen Moderna applikationsmilj\u00c3\u00b6er (HT12) vid Linn\u00c3\u00a9universitetet\nKursen Moderna applikationsmilj\u00c3\u00b6er syftar till att unders\u00c3\u00b6ka och presentera funktionaliteten hos en modern applikationsmilj\u00c3\u00b6. Som avslutning i kursen h\u00c3\u00a5lls en f\u00c3\u00b6rel\u00c3\u00a4sning om varje applikationsomr\u00c3\u00a5de som det har arbetats med i kursen.\n            ",
+                "LatestPostTitle": "Inspelade presentationer",
+                "LatestPostAuthor": "Martin Blomberg",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
+            }
+        },
+        {
+            "Page 82": {
+                "Url": "https:\/\/coursepress.lnu.se\/drift\/",
+                "CourseName": "CoursePress  \u2013 Driftsinformation",
+                "CourseCode": "no information",
+                "CoursePlanUrl": "http:\/\/prod.kursinfo.lnu.se\/utbildning\/GenerateDocument.ashx?templatetype=coursesyllabus&code=2DV400&documenttype=pdf&lang=sv",
+                "CourseDescription": "\r\n        P\u00c3\u00a5 denna sida \u00c3\u00a4r det t\u00c3\u00a4nkt att vi kommer att samla allt som har med drift och support kring CoursePress att g\u00c3\u00b6ra. Manualer f\u00c3\u00b6r l\u00c3\u00a4rare kommer att publiceras h\u00c3\u00a4r tillsammans med information kring kommande versioner av CoursePress.\n            ",
+                "LatestPostTitle": "Stilmallar",
+                "LatestPostAuthor": "Johan Leitet",
+                "LatestPostTimeStamp": "2014-11-12 05:12"
             }
         }
     ]
